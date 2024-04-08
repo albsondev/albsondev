@@ -1,7 +1,10 @@
 <h1 align="center">Opa! 👋, Eu sou André Albson</h1>
 <h3 align="center">Transformando linhas de código em experiências poderosas</h3>
+<h4>
+  Quem é André?
+</h4>
 <h5>
-  Quem é André? sou apaixonado pelo que faço e tenho uma vasta experiência em desenvolvimento web, com habilidades sólidas em uma variedade de tecnologias essenciais para impulsionar projetos de sucesso. Meu compromisso com a excelência e minha capacidade de adaptação às mais recentes tendências e ferramentas tecnológicas me tornam um ativo valioso para sua equipe.
+  Sou apaixonado pelo que faço e tenho uma vasta experiência em desenvolvimento web, com habilidades sólidas em uma variedade de tecnologias essenciais para impulsionar projetos de sucesso. Meu compromisso com a excelência e minha capacidade de adaptação às mais recentes tendências e ferramentas tecnológicas me tornam um ativo valioso para sua equipe.
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" alt="albsondev" /> </p>
