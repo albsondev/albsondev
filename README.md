@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <div style="display: flex; flex-wrap: nowrap; width: 100%;">
-  
-  ![albsondev's Stats](https://github-readme-stats.vercel.app/api?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![albsondev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=albsondev&theme=vue-dark&hide_border=true)
-  ![albsondev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
+  <div>
+    ![albsondev's Stats](https://github-readme-stats.vercel.app/api?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  </div>
+  <div>
+    ![albsondev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=albsondev&theme=vue-dark&hide_border=true)
+  </div>
+  <div>
+    ![albsondev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  </div>
 </div>
 
 <!--
