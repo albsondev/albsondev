@@ -38,8 +38,4 @@
 
 <hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=en" alt="albsondev" /></p>
-
-<hr />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albsondev&" alt="albsondev" /></p>
