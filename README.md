@@ -1,13 +1,14 @@
 <h1 align="center">Opa! 👋, Eu sou André Albson</h1>
 <h3 align="center">Transformando linhas de código em experiências poderosas</h3>
+<h5>
+  Quem é André? sou apaixonado pelo que faço e tenho uma vasta experiência em desenvolvimento web, com habilidades sólidas em uma variedade de tecnologias essenciais para impulsionar projetos de sucesso. Meu compromisso com a excelência e minha capacidade de adaptação às mais recentes tendências e ferramentas tecnológicas me tornam um ativo valioso para sua equipe.
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" alt="albsondev" /> </p>
 
 - 🌱 Atualmente estou aprendendo **Phyton e Java**
 
 - 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://github.com/sachelphub/livedesk_admin)
-
-- 💬 Quem é André? **sou apaixonado pelo que faço e tenho uma vasta experiência em desenvolvimento web, com habilidades sólidas em uma variedade de tecnologias essenciais para impulsionar projetos de sucesso. Meu compromisso com a excelência e minha capacidade de adaptação às mais recentes tendências e ferramentas tecnológicas me tornam um ativo valioso para sua equipe.**
 
 - 📫 Meus Contatos **(81) 9 98994052 | ddalbson@hotmail.com | https://www.linkedin.com/in/andr%C3%A9-albson-81b262112**
 
