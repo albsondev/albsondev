@@ -6,6 +6,7 @@
 <h5>
   Sou apaixonado pelo que faço e tenho uma vasta experiência em desenvolvimento web, com habilidades sólidas em uma variedade de tecnologias essenciais para impulsionar projetos de sucesso. Meu compromisso com a excelência e minha capacidade de adaptação às mais recentes tendências e ferramentas tecnológicas me tornam um ativo valioso para sua equipe.
 </h5>
+<hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" alt="albsondev" /> </p>
 
