@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: nowrap; width: 100%;">
   <div>
-    ![albsondev's Stats](https://github-readme-stats.vercel.app/api?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+    https://github-readme-stats.vercel.app/api?username=albsondev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
   </div>
   <div>
     ![albsondev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=albsondev&theme=vue-dark&hide_border=true)
