@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" alt="albsondev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albsondev" alt="albsondev" /></a> </p>
-
 - 🌱 Atualmente estou aprendendo **Phyton e Java**
 
 - 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://github.com/sachelphub/livedesk_admin)
