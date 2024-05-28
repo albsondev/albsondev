@@ -12,7 +12,7 @@
 
 - 🌱 Atualmente estou aprendendo **Phyton e Java**
 
-- 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://github.com/sachelphub/livedesk_admin)
+- 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://www.livedesk.com.br/authentication)
 
 - 📫 Meus Contatos **(81) 9 98994052 | ddalbson@hotmail.com | https://www.linkedin.com/in/andr%C3%A9-albson-81b262112**
 
