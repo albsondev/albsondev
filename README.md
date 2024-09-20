@@ -14,7 +14,7 @@
 
 - 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://www.livedesk.com.br/)
 
-- 📫 Meus Contatos **(81) 9 98994052 | ddalbson@hotmail.com | https://www.linkedin.com/in/andr%C3%A9-albson-81b262112**
+- 📫 Meus Contatos **(81) 9 9899-4052 ou (81) 9 8685-4052 | albsondev@outlook.com | https://www.linkedin.com/in/andrealbson**
 
 <hr />
 
