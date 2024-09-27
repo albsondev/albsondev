@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" alt="albsondev" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Phyton e Java**
+- 🌱 Atualmente buscando **Recolocação Profissional**
 
 - 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://www.livedesk.com.br/)
 
