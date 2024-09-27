@@ -19,7 +19,7 @@
 <div align="center" style="margin-top: 5%;margin-bottom: 5%;">
   <a a href="https://www.linkedin.com/in/andrealbson">
         <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&langs_count=10" />
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=edsonmoretti&show_icons=true" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true" />
         <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=albsondev&" alt="albsondev" />
   <br>
   
