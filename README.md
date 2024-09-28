@@ -8,17 +8,30 @@
 <span style="text-align: center;display: block;"> [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&theme=onedark)](https://linkedin.com/in/albsondev)
 </span>
 
+> &nbsp;
+> 
+> <span style="color: white;font-weight: bold;"> 🌱 Atualmente buscando Recolocação Profissional </span>
+> 
+> <span style="color: white;font-weight: bold;"> 🎓 Formado em Análise e Desenvolvimento de Sistemas </span>
+> > <span style="padding-left: 1.5em;"> *FAFICA - Caruaru-PE* </span>
+>
+> <span style="color: white;font-weight: bold;"> 💻 Tenho curso Técnico de Informática Integrado ao Ensino Médio - IFPE CAMPUS BELO JARDIM </span>
+>
+> > <span style="padding-left: 1.5em;"> *Belo Jardim-PE* </span>
+> 
+> <span style="color: white;font-weight: bold;"> 👯 Minha última contribuição foi na PRECODE </span>
+> > <span style="padding-left: 1.5em;"> [LIVEDESK](https://www.livedesk.com.br/) </span>
+>
+> <span style="color: white;font-weight: bold;"> 📫 Meus Contatos: </span>
+> > <span style="padding-left: 1.5em;"> **(81) 9 9899-4052** ou **(81) 9 8685-4052** </span>
+> 
+> > <span style="padding-left: 1.5em;"> albsondev@outlook.com
+> 
+> > <span style="padding-left: 1.5em;"> https://www.linkedin.com/in/andrealbson
+> 
+> &nbsp;
 
 
-- 🌱 Atualmente buscando Recolocação Profissional
-
--  🎓 Formado em Análise e Desenvolvimento de Sistemas - **FAFICA - Caruaru-PE**
-
--  💻 Tenho curso Técnico de Informática Integrado ao Ensino Médio - IFPE CAMPUS BELO JARDIM - **Belo Jardim-PE**
-
-- 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://www.livedesk.com.br/)
-
-- 📫 Meus Contatos **(81) 9 9899-4052 ou (81) 9 8685-4052 | albsondev@outlook.com | https://www.linkedin.com/in/andrealbson**
 
 <div align="center" style="margin-top: 5%;margin-bottom: 5%;">
   <a a href="https://www.linkedin.com/in/andrealbson">
