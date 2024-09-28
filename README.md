@@ -1,4 +1,4 @@
-# <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" /> <span style="margin-left: 15%;text-align: center;">André Albson - Desenvolvedor Front-End PL</span>
+# <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" style="margin-right: 15%;" /> <span style="text-align: center;">André Albson - Desenvolvedor Front-End PL</span>
 <h5 style="color: gray;" align="center">Focado em entregar experiências que fazem a diferença, com paixão e dedicação a cada linha de código.</h3>
 <hr />
 
