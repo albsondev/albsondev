@@ -12,6 +12,10 @@
 
 - 🌱 Atualmente buscando Recolocação Profissional
 
+-  🎓 Formado em Análise e Desenvolvimento de Sistemas - **FAFICA - Caruaru-PE**
+
+-  💻 Tenho curso Técnico de Informática Integrado ao Ensino Médio - IFPE CAMPUS BELO JARDIM - **Belo Jardim-PE**
+
 - 👯 Minha última contribuição foi na PRECODE. [LIVEDESK](https://www.livedesk.com.br/)
 
 - 📫 Meus Contatos **(81) 9 9899-4052 ou (81) 9 8685-4052 | albsondev@outlook.com | https://www.linkedin.com/in/andrealbson**
