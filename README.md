@@ -1,9 +1,3 @@
-<style>
-  body {
-    background: #282c34;
-  }
-</style>
-
 # <span style="margin-left: 20%;text-align: center;">André Albson - Desenvolvedor Front-End</span>
 <h5 style="color: gray;" align="center">
 <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
