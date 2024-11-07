@@ -49,6 +49,8 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
 
 </div>
 
+<br />
+
 <div align="center" style="margin-top: 5%;margin-bottom: 5%;display:block;">
   <a href="https://www.linkedin.com/in/andrealbson">
     <p align="center">
