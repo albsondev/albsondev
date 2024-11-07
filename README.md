@@ -37,7 +37,6 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
   <img height="32" width="32" src="https://cdn.simpleicons.org/laravel/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cakephp/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/[COLOR]" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/[COLOR]" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
