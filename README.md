@@ -52,7 +52,7 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
 <div align="center" style="margin-top: 5%;margin-bottom: 5%;">
   <a href="https://www.linkedin.com/in/andrealbson">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&langs_count=10&locale=pt-br&card_width=420&theme=nord" width="380px" height="195px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&langs_count=10&locale=pt-br&card_width=420&theme=nord" width="340px" height="175px"/>
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=nord&locale=pt-br"
@@ -62,7 +62,7 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
           srcset="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=pt-br"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=pt-br" />
+        <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=pt-br" width='420px'/>
       </picture>
     </p>
   </a>
