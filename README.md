@@ -21,7 +21,7 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
   </p>
 </a>
 
-<div style="border: 1px dashed #5a606d; padding: 10px 15px; margin-bottom: 15px;">
+<div style="border: 1px dashed #5a606d; padding: 10px 15px; margin-bottom: 15px;display: block;">
 
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -49,7 +49,7 @@ Focado em entregar experiências que fazem a diferença, com paixão e dedicaç�
 
 </div>
 
-<div align="center" style="margin-top: 5%;margin-bottom: 5%;">
+<div align="center" style="margin-top: 5%;margin-bottom: 5%;display:block;">
   <a href="https://www.linkedin.com/in/andrealbson">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&langs_count=10&locale=pt-br&card_width=420&theme=nord" width="340px" height="175px"/>
