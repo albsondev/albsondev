@@ -1,4 +1,4 @@
-# <span style="margin-left: 20%;text-align: center;">André Albson - Desenvolvedor Front-End</span>
+# <span style="margin-left: 20%;text-align: center;">André Albson - Desenvolvedor FullStack</span>
 <h5 style="color: gray;" align="center">
 <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" style="margin-right: 1%;margin-left: -3%" /><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrealbson/" style="margin-right: 3%;"/>
