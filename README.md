@@ -1,4 +1,4 @@
-# <span style="margin-left: 20%;text-align: center;">André Albson — Desenvolvedor Front-end Sênior | FullStack & IA</span>
+# <span style="margin-left: 20%;text-align: center;">André Albson — Dev Front-end Sênior | FullStack & IA</span>
 
 <h5 style="color: gray;" align="center">
 <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
