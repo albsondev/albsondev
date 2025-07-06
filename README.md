@@ -20,7 +20,7 @@ Especialista em interfaces web modernas, apaixonado por tecnologia, inovação e
 
 #### Nos últimos anos, ampliei minha atuação para back-end e automação, desenvolvendo APIs, integrações inteligentes e soluções com IA generativa (LLMs, automação de fluxos, prompt engineering), agregando visão fullstack e potencializando resultados de negócio.
 
-<span style="text-align: center;display: block;"> [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&theme=dark_dimmed&column=-1&no-frame=false)](https://linkedin.com/in/albsondev)
+<span style="text-align: center;display: block;"> [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&no-bg=false&theme=oldie&column=-1&no-frame=false)](https://linkedin.com/in/albsondev)
 </span>
 
 <a href="https://www.linkedin.com/in/andrealbson">
