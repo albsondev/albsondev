@@ -1,8 +1,9 @@
-<a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=0e75b6&style=flat" style="margin-right: 1%;margin-left: -3%" />
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrealbson/" style="margin-right: 3%;"/>
-</a>
-<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
@@ -196,6 +197,16 @@ Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I stro
 <br>
 
 <div align="center">
+  <h2 style="color: #5f6368;">🏆 Technical Milestones</h2>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4285f4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Full_Stack-Expert-34a853?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/AI_Engineering-Specialist-ea4335?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Clean_Code-Evangelist-fbbc05?style=for-the-badge&logo=lighthouse" />
+</div>
+
+<br/>
+
+<div align="center">
   <h2 style="color: #5f6368;">📊 GitHub Analytics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285f4&text_color=bdc1c6&icon_color=34a853&bg_color=202124&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=tokyonight&hide_border=true&title_color=ea4335&text_color=bdc1c6&bg_color=202124&langs_count=8" height="180px"/>
@@ -204,13 +215,6 @@ Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I stro
   <img src="https://streak-stats.demolab.com?user=albsondev&theme=tokyonight&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=bdc1c6&dates=bdc1c6&stroke=00000000&background=202124" width="100%"/>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&theme=onedark)](https://github.com/albsondev)
-  </a>
-</div>
-
-<br/>
 
 <div align="center" style="font-size: 12px; color: #5f6368;">
   Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & IA
