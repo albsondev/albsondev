@@ -4,8 +4,6 @@
 </a>
 <br />
 
-<div style="background-color: #26292d; padding: 20px; border-radius: 10px;">
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
 </div>
@@ -31,189 +29,189 @@
 
 <br />
 
-## 🧑‍💻 About Me
+<table style="width: 100%; border-collapse: collapse; background-color: #202124; border-radius: 12px; border: 1px solid #3c4043;">
+<tr>
+<td style="padding: 30px;">
 
-> **"I don't just write code; I architect solutions."**
+<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🧑‍💻 About Me</h2>
 
-My journey began with a curiosity for how things work, leading me from **Technical Informatics** to becoming a **Senior Full Stack Developer**. Over the last **10+ years**, I have evolved from building simple websites to architecting complex, high-performance systems for major telecom and e-commerce players.
+<p style="color: #e8eaed; font-size: 1.1em; line-height: 1.6;">
+<strong>"I don't just write code; I architect solutions."</strong><br><br>
+My journey began with a curiosity for how things work, leading me from <strong>Technical Informatics</strong> to becoming a <strong>Senior Full Stack Developer</strong>. Over the last <strong>10+ years</strong>, I have evolved from building simple websites to architecting complex, high-performance systems for major telecom and e-commerce players.<br><br>
+Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I strongly believe that the future of development lies in the synergy between human creativity and artificial intelligence. I specialize in using <strong>Generative AI</strong> not just to write code faster, but to create smarter, self-documenting, and adaptable systems ("Memory Bank" concepts).<br><br>
+<strong>My Core Mission:</strong> To leverage AI and modern web technologies to automate the mundane and empower users with intuitive, powerful interfaces.
+</p>
 
-Currently, I am pivoting towards **AI Applied Engineering**. I strongly believe that the future of development lies in the synergy between human creativity and artificial intelligence. I specialize in using **Generative AI** not just to write code faster, but to create smarter, self-documenting, and adaptable systems ("Memory Bank" concepts).
+<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
 
-**My Core Mission:** To leverage AI and modern web technologies to automate the mundane and empower users with intuitive, powerful interfaces.
+<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🏗️ Featured Projects</h2>
 
----
-
-## 🏗️ Featured Projects
-
-<table align="center">
+<table align="center" style="width: 100%; border-spacing: 15px; border-collapse: separate;">
   <tr>
-    <td align="center" width="50%">
-      <h3>📡 LiveDesk (TIM)</h3>
-      <p><strong>High-Performance Ticket Management</strong></p>
-      <p>A mission-critical system for TIM, handling massive volumes of support tickets. Focused on UX optimization and real-time data processing.</p>
+    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
+      <h3 style="color: #4285f4;">📡 LiveDesk (TIM)</h3>
+      <p style="color: #bdc1c6;"><strong>High-Performance Ticket Management</strong></p>
+      <p style="color: #9aa0a6; font-size: 0.9em;">A mission-critical system for TIM, handling massive volumes of support tickets. Focused on UX optimization and real-time data processing.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Performance-High-brightgreen?style=flat-square" />
       </p>
     </td>
-    <td align="center" width="50%">
-      <h3>🚴 Bike-MV</h3>
-      <p><strong>Mobile-First Cycling App</strong></p>
-      <p>An interactive web & mobile application for the cycling community. Built with a "Mobile First" approach ensuring seamless experience across devices.</p>
+    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
+      <h3 style="color: #34a853;">🚴 Bike-MV</h3>
+      <p style="color: #bdc1c6;"><strong>Mobile-First Cycling App</strong></p>
+      <p style="color: #9aa0a6; font-size: 0.9em;">An interactive web & mobile application for the cycling community. Built with a "Mobile First" approach ensuring seamless experience.</p>
       <p>
          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
          <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-         <img src="https://img.shields.io/badge/UX/UI-Design-pink?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>🛒 White-Label E-commerce</h3>
-      <p><strong>Scalable Multi-Tenant Platform</strong></p>
-      <p>Architected customizable templates for a white-label e-commerce solution, allowing rapid deployment of unique stores with shared core logic.</p>
+    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
+      <h3 style="color: #fbbc05;">🛒 White-Label E-commerce</h3>
+      <p style="color: #bdc1c6;"><strong>Scalable Multi-Tenant Platform</strong></p>
+      <p style="color: #9aa0a6; font-size: 0.9em;">Architected customizable templates for a white-label e-commerce solution, allowing rapid deployment of unique stores.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/SEO-Optimized-orange?style=flat-square" />
       </p>
     </td>
-    <td align="center" width="50%">
-      <h3>🤖 Konecty Automations</h3>
-      <p><strong>AI & Metadata Governance</strong></p>
-      <p>Developed Python scripts and Shell automations for Docker environments. Implemented "Memory Bank" documentation using AI assisting tools.</p>
+    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
+      <h3 style="color: #ea4335;">🤖 Konecty Automations</h3>
+      <p style="color: #bdc1c6;"><strong>AI & Metadata Governance</strong></p>
+      <p style="color: #9aa0a6; font-size: 0.9em;">Developed Python scripts and Shell automations for Docker. Implemented "Memory Bank" documentation using AI tools.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-Engineering-blueviolet?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
 
-## 🧠 Philosophy & Methodologies
+<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🧠 Philosophy & Methodologies</h2>
 
-I subscribe to the **"Quality First"** manifesto. Code is read much more often than it is written.
-
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=codefactor" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Testing-TDD_&_Jest-critical?style=for-the-badge&logo=jest" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Process-Agile_&_Scrum-blue?style=for-the-badge&logo=scrumalliance" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Docs-Memory_Bank_(AI)-yellow?style=for-the-badge&logo=markdown" />
-  </a>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=codefactor" />
+  <img src="https://img.shields.io/badge/Testing-TDD_&_Jest-critical?style=for-the-badge&logo=jest" />
+  <img src="https://img.shields.io/badge/Process-Agile_&_Scrum-blue?style=for-the-badge&logo=scrumalliance" />
+  <img src="https://img.shields.io/badge/Docs-Memory_Bank_(AI)-yellow?style=for-the-badge&logo=markdown" />
 </div>
 
-<br/>
+<h3 style="color: #ffffff;">🛡️ Soft Skills Matrix</h3>
+<table style="width: 100%; color: #e8eaed; border: 1px solid #3c4043; background-color: #2d2e31; border-radius: 8px;">
+<tr style="border-bottom: 1px solid #3c4043;">
+<th align="left" style="padding: 10px;">Skill</th>
+<th align="left" style="padding: 10px;">Status</th>
+<th align="left" style="padding: 10px;">Focus Area</th>
+</tr>
+<tr>
+<td style="padding: 10px;"><strong>Technical Leadership</strong></td>
+<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
+<td style="padding: 10px; font-size: 0.9em;">Mentoring, Code Reviews, Decision Making</td>
+</tr>
+<tr>
+<td style="padding: 10px;"><strong>Communication</strong></td>
+<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩⬜</td>
+<td style="padding: 10px; font-size: 0.9em;">Translating Tech to Business, Stakeholders</td>
+</tr>
+<tr>
+<td style="padding: 10px;"><strong>Adaptability</strong></td>
+<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
+<td style="padding: 10px; font-size: 0.9em;">Rapid stack switching (AI, Python, Node)</td>
+</tr>
+<tr>
+<td style="padding: 10px;"><strong>Problem Solving</strong></td>
+<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
+<td style="padding: 10px; font-size: 0.9em;">Root Cause Analysis, Scalability</td>
+</tr>
+</table>
 
-### 🛡️ Soft Skills
-<!-- Visual representation of Soft Skills -->
-| Skill | Level | Focus |
-| :--- | :--- | :--- |
-| **Technical Leadership** | 🟩🟩🟩🟩🟩 | *Mentoring, Code Reviews, Decision Making* |
-| **Communication** | 🟩🟩🟩🟩⬜ | *Translating Tech to Business, Documentation* |
-| **Adaptability** | 🟩🟩🟩🟩🟩 | *Learning new Stacks (AI/Python) rapidly* |
-| **Problem Solving** | 🟩🟩🟩🟩🟩 | *Root Cause Analysis, Architectural Fixes* |
+<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
 
----
-
-## 🛠️ Hard Skills Radar
+<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🛠️ Hard Skills Radar</h2>
 
 <div align="center">
-
-### **AI & Engineering**
-<br>
+<p style="color: #bdc1c6; font-weight: bold;">AI & Engineering</p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-EA4335?style=flat-square&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white" />
 
-### **Frontend Ecosystem**
-<br>
+<p style="color: #bdc1c6; font-weight: bold; margin-top: 15px;">Frontend Ecosystem</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
-### **Backend & Infrastructure**
-<br>
+<p style="color: #bdc1c6; font-weight: bold; margin-top: 15px;">Backend & Infra</p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
 </div>
 
----
+<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
 
-## 🚀 Experience Timeline
+<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🚀 Experience Timeline</h2>
 
-<details open>
-<summary><strong>See Detailed Career Path</strong></summary>
-<br>
+<details style="color: #e8eaed;">
+<summary style="cursor: pointer; font-weight: bold; color: #4285f4; margin-bottom: 15px;">View Detailed Career Journey</summary>
+<div style="border-left: 2px solid #4285f4; padding-left: 20px; margin-top: 10px;">
 
-### **Konecty** (Full Stack / AI Engineer)
-_Mai 2025 - Dez 2025 | Porto Alegre (Remote)_
-- 🤖 **AI-First Development**: Integrated LLMs into the dev workflow, reducing boilerplate by 40%.
-- 🐳 **Infrastructure**: Managed Docker containers and automated backups with Python.
-- 🏗️ **Architecture**: Modeled complex business entities using JSON Metadata.
+<h3 style="color: #ffffff;">Konecty <small style="color: #9aa0a6;">(Full Stack / AI Engineer)</small></h3>
+<p style="color: #bdc1c6; font-size: 0.9em;"><em>Mai 2025 - Dez 2025 | Remote</em></p>
+<ul style="color: #9aa0a6;">
+<li>Integrated LLMs into development workflow, boosting efficiency by 40%.</li>
+<li>Managed high-availability Docker architectures and automated pipelines.</li>
+<li>Architected scalable business entities via JSON Metadata Governance.</li>
+</ul>
 
-### **Connexa API** (Senior Front-End)
-_Out 2024 - Mar 2025 | Maringá (Remote)_
-- ⚡ **Performance**: Optimized Next.js SSR rendering for high-traffic dashboards.
-- 🔌 **Real-time**: Implemented WebSockets for live data feeds.
-- 🧪 **Quality**: Established 90% test coverage with Jest and Cypress.
+<h3 style="color: #ffffff;">Connexa API <small style="color: #9aa0a6;">(Senior Front-End)</small></h3>
+<p style="color: #bdc1c6; font-size: 0.9em;"><em>Out 2024 - Mar 2025 | Remote</em></p>
+<ul style="color: #9aa0a6;">
+<li>Optimized critical Next.js dashboards for high-concurrency usage.</li>
+<li>Implemented real-time bidirectional data via WebSockets.</li>
+<li>Led the adoption of TDD, reaching 90%+ unit test coverage.</li>
+</ul>
 
-### **PRECODE** (Front-End Developer)
-_Mai 2022 - Jan 2024 | Maringá_
-- 🛍️ **E-commerce**: Built the frontend for a scalable White-label platform.
-- 🎫 **LiveDesk**: Enhanced the UX of TIM's internal ticket system.
-- 📊 **SEO**: Achieved top Core Web Vitals scores.
+<h3 style="color: #ffffff;">PRECODE <small style="color: #9aa0a6;">(Front-End Developer)</small></h3>
+<p style="color: #bdc1c6; font-size: 0.9em;"><em>Mai 2022 - Jan 2024 | Maringá</em></p>
+<ul style="color: #9aa0a6;">
+<li>Engineered white-label frontend systems for multi-tenant e-commerce.</li>
+<li>Revitalized UX for TIM's LiveDesk ticket management platform.</li>
+</ul>
 
-### **COMEIA** (Front-End Developer)
-_Jul 2021 - Mai 2022 | Caruaru_
-- 🚲 **Mobile App**: Developed "Bike-MV" using Vue.js and Capacitor/Cordova concepts.
-
-### **OGI Sistemas** (Full Stack Developer)
-_Mar 2019 - Mai 2021 | Porto Alegre_
-- 🐘 **Legacy to Modern**: Maintained and evolved PHP (Yii2) monoliths.
-
+</div>
 </details>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Analytics
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=transparent&hide_border=true&title_color=4285f4&text_color=5f6368&icon_color=34a853&bg_color=00000000&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=transparent&hide_border=true&title_color=ea4335&text_color=5f6368&bg_color=00000000&langs_count=8" height="180px"/>
+  <h2 style="color: #5f6368;">📊 GitHub Analytics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285f4&text_color=bdc1c6&icon_color=34a853&bg_color=202124&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=tokyonight&hide_border=true&title_color=ea4335&text_color=bdc1c6&bg_color=202124&langs_count=8" height="180px"/>
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=albsondev&theme=transparent&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=5f6368&dates=5f6368&stroke=00000000&background=00000000" width="100%"/>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=albsondev&theme=tokyonight&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=bdc1c6&dates=bdc1c6&stroke=00000000&background=202124" width="100%"/>
 </div>
 <br>
-<!-- Trophies Section -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=albsondev&theme=flat&no-frame=true&margin-w=15&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=albsondev&theme=ocean&no-frame=true&margin-w=15&no-bg=true" />
   </a>
 </div>
 
 <br/>
 
 <div align="center" style="font-size: 12px; color: #5f6368;">
-  Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & AI
-</div>
+  Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & IA
 </div>
