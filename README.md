@@ -4,178 +4,213 @@
 </a>
 <br />
 
-<h1 style="color: gray;" align="center">
-André Albson — Dev Front-end | FullStack & IA
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
+</div>
 
-<h5 style="color: gray;" align="center">
-Especialista em interfaces web modernas, apaixonado por tecnologia, inovação e entrega de valor real ao usuário.
-</h5>
+<h3 align="center">
+  <samp>Building the bridge between complex problems and elegant, intelligent solutions.</samp>
+</h3>
 
-<hr />
-
-#### Desenvolvedor Front-end Sênior com mais de 10 anos de experiência, atuando em projetos de alta complexidade para grandes empresas e e-commerces. Tenho sólida expertise em React.js, Vue.js, Angular, Next.js, TypeScript, Bootstrap, Tailwind e outras tecnologias modernas, entregando interfaces responsivas, acessíveis e de alta performance.
-
-#### Ao longo da carreira, fui responsável por liderar o desenvolvimento de sistemas como o LiveDesk (TIM), plataformas de e-commerce e painéis administrativos, sempre focando em usabilidade, escalabilidade e qualidade de código. Minha experiência inclui integração de APIs, testes automatizados, otimização de UX e colaboração com times multidisciplinares em ambientes ágeis.
-
-#### Nos últimos anos, ampliei minha atuação para back-end e automação, desenvolvendo APIs, integrações inteligentes e soluções com IA generativa (LLMs, automação de fluxos, prompt engineering), agregando visão fullstack e potencializando resultados de negócio.
-
-<span style="text-align: center;display: block;"> [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&no-bg=false&theme=oldie&column=-1&no-frame=false)](https://linkedin.com/in/albsondev)
-</span>
-
-<a href="https://www.linkedin.com/in/andrealbson">
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albsondev&amp;theme=nord_dark" width='100%'/>
-  </p>
-</a>
-
-<div style="border: 1px dashed #5a606d; padding: 10px 15px; margin-bottom: 15px;">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/chakraui" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/materialdesign" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/openai" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+<div align="center">
+  <a href="https://linkedin.com/in/andrealbson">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:albsondev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codepen.io/albsonxavier">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://instagram.com/andre_albson">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <br />
 
-<div align="center" style="margin-top: 5%;margin-bottom: 5%;">
-  <a href="https://www.linkedin.com/in/andrealbson">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&langs_count=10&locale=pt-br&card_width=420&theme=nord" width="340px" height="175px"/>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=nord&locale=pt-br"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=pt-br"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&locale=pt-br" width='420px'/>
-      </picture>
-    </p>
-  </a>
+## 🧑‍💻 About Me
 
-  <a href="https://www.linkedin.com/in/andrealbson">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albsondev&locale=pt-br&theme=nord" alt="albsondev" width='100%'/>
-  </a>
-</div>
+> **"I don't just write code; I architect solutions."**
+
+My journey began with a curiosity for how things work, leading me from **Technical Informatics** to becoming a **Senior Full Stack Developer**. Over the last **10+ years**, I have evolved from building simple websites to architecting complex, high-performance systems for major telecom and e-commerce players.
+
+Currently, I am pivoting towards **AI Applied Engineering**. I strongly believe that the future of development lies in the synergy between human creativity and artificial intelligence. I specialize in using **Generative AI** not just to write code faster, but to create smarter, self-documenting, and adaptable systems ("Memory Bank" concepts).
+
+**My Core Mission:** To leverage AI and modern web technologies to automate the mundane and empower users with intuitive, powerful interfaces.
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🏗️ Featured Projects
 
-- **Atuação atual:** Desenvolvedor Front-end Sênior, com experiência fullstack e foco em automação e IA
-- **Experiência:** +10 anos em desenvolvimento de software, com forte atuação em front-end (React, Vue, Angular, Next.js, TypeScript, etc.) e, mais recentemente, em back-end, automação e IA
-- **Foco:** Interfaces modernas, APIs, integrações, automação de processos, arquitetura de sistemas, LLMs, geração de prompts, testes automatizados e entrega contínua
-- **Soft Skills:** Proatividade, comunicação clara, trabalho em equipe, liderança técnica, mentoria e foco em resultados
-
----
-
-## 🛠️ Principais Competências
-
-<table style="width: 100%; margin-top: 3em;background: #32363f; padding: 10px; border-radius: 8px;">
+<table align="center">
   <tr>
-    <th>Front-end</th>
-    <th>Back-end</th>
-    <th>IA & Automação</th>
-    <th>DevOps & Ferramentas</th>
+    <td align="center" width="50%">
+      <h3>📡 LiveDesk (TIM)</h3>
+      <p><strong>High-Performance Ticket Management</strong></p>
+      <p>A mission-critical system for TIM, handling massive volumes of support tickets. Focused on UX optimization and real-time data processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Performance-High-brightgreen?style=flat-square" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚴 Bike-MV</h3>
+      <p><strong>Mobile-First Cycling App</strong></p>
+      <p>An interactive web & mobile application for the cycling community. Built with a "Mobile First" approach ensuring seamless experience across devices.</p>
+      <p>
+         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+         <img src="https://img.shields.io/badge/UX/UI-Design-pink?style=flat-square" />
+      </p>
+    </td>
   </tr>
   <tr>
-    <td>React.js, Next.js, Vue.js, Angular</td>
-    <td>Node.js, TypeScript, PHP, Python</td>
-    <td>OpenAI, LLMs, Prompt Engineering</td>
-    <td>Docker, Git, CI/CD</td>
-  </tr>
-  <tr>
-    <td>TypeScript, JavaScript, SASS, Tailwind, Bootstrap, Chakra UI, Material UI</td>
-    <td>Express, NestJS, APIs REST, GraphQL, MySQL, PostgreSQL, MongoDB</td>
-    <td>Automação de fluxos, Webhooks</td>
-    <td>Linux, Shell Script</td>
-  </tr>
-  <tr>
-    <td>Design System, UI/UX, Figma</td>
-    <td>Arquitetura de sistemas, Integrações</td>
-    <td>Integração de APIs de IA</td>
-    <td>Ferramentas de design e prototipação</td>
+    <td align="center" width="50%">
+      <h3>🛒 White-Label E-commerce</h3>
+      <p><strong>Scalable Multi-Tenant Platform</strong></p>
+      <p>Architected customizable templates for a white-label e-commerce solution, allowing rapid deployment of unique stores with shared core logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO-Optimized-orange?style=flat-square" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 Konecty Automations</h3>
+      <p><strong>AI & Metadata Governance</strong></p>
+      <p>Developed Python scripts and Shell automations for Docker environments. Implemented "Memory Bank" documentation using AI assisting tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Engineering-blueviolet?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Últimas Experiências Profissionais
+## 🧠 Philosophy & Methodologies
 
-**Desenvolvedor Front-end Sênior**  
-Connexa API (2024)  
-- Desenvolvimento de painéis administrativos em React.js + TypeScript  
-- Integração com APIs do WhatsApp  
-- Otimização de UX, acessibilidade e performance  
-- Testes automatizados (Jest, React Testing Library)  
-- Colaboração em times ágeis (Scrum)
+I subscribe to the **"Quality First"** manifesto. Code is read much more often than it is written.
 
-**Desenvolvedor Front-end**  
-PRECODE (2022-2024)  
-- Desenvolvimento de templates para e-commerce  
-- Sistema LiveDesk (TIM): gerenciamento de tickets  
-- Personalização de layouts, design responsivo  
-- Colaboração com equipes multidisciplinares
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=codefactor" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Testing-TDD_&_Jest-critical?style=for-the-badge&logo=jest" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Process-Agile_&_Scrum-blue?style=for-the-badge&logo=scrumalliance" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Docs-Memory_Bank_(AI)-yellow?style=for-the-badge&logo=markdown" />
+  </a>
+</div>
 
-**Desenvolvedor Front-end Pleno**  
-COMEIA (2021-2022)  
-- Projeto Bike-MV: web/mobile com Vue.js, React.js, Node.js  
-- Projeto TeamCulture Quiz: funcionalidades dinâmicas  
-- Integração de APIs, testes e validação de componentes
+<br/>
 
-**Desenvolvedor FullStack**  
-OGI Sistemas (2019-2021)  
-- Desenvolvimento de módulos em PHP (Yii2), MySQL  
-- Criação de sites, landing pages e páginas promocionais  
-- Otimização de funcionalidades e correção de bugs
----
-
-## 🎓 Formação
-
-- **Análise e Desenvolvimento de Sistemas** — FAFICA, Caruaru-PE
-- **Técnico em Informática Integrado ao Ensino Médio** — IFPE, Campus Belo Jardim
+### 🛡️ Soft Skills
+<!-- Visual representation of Soft Skills -->
+| Skill | Level | Focus |
+| :--- | :--- | :--- |
+| **Technical Leadership** | 🟩🟩🟩🟩🟩 | *Mentoring, Code Reviews, Decision Making* |
+| **Communication** | 🟩🟩🟩🟩⬜ | *Translating Tech to Business, Documentation* |
+| **Adaptability** | 🟩🟩🟩🟩🟩 | *Learning new Stacks (AI/Python) rapidly* |
+| **Problem Solving** | 🟩🟩🟩🟩🟩 | *Root Cause Analysis, Architectural Fixes* |
 
 ---
 
-## 📚 Cursos Complementares
+## 🛠️ Hard Skills Radar
 
-- Angular, React.js, Next.js, Vue.js 2/3 (Alura, DIO)
-- Bootstrap, Flexbox, HTML5, CSS3, SASS, JQuery (Alura)
-- Web Design Responsivo, Tipografia, CSS Produtivo (Alura)
+<div align="center">
+
+### **AI & Engineering**
+<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-EA4335?style=flat-square&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white" />
+
+### **Frontend Ecosystem**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+
+### **Backend & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+
+</div>
 
 ---
 
-## 📫 Contato
+## 🚀 Experience Timeline
 
-- **E-mail:** albsondev@outlook.com
-- **LinkedIn:** [andrealbson](https://www.linkedin.com/in/andrealbson)
-- **Telefone:** (81) 9 9899-4052
+<details open>
+<summary><strong>See Detailed Career Path</strong></summary>
+<br>
+
+### **Konecty** (Full Stack / AI Engineer)
+_Mai 2025 - Dez 2025 | Porto Alegre (Remote)_
+- 🤖 **AI-First Development**: Integrated LLMs into the dev workflow, reducing boilerplate by 40%.
+- 🐳 **Infrastructure**: Managed Docker containers and automated backups with Python.
+- 🏗️ **Architecture**: Modeled complex business entities using JSON Metadata.
+
+### **Connexa API** (Senior Front-End)
+_Out 2024 - Mar 2025 | Maringá (Remote)_
+- ⚡ **Performance**: Optimized Next.js SSR rendering for high-traffic dashboards.
+- 🔌 **Real-time**: Implemented WebSockets for live data feeds.
+- 🧪 **Quality**: Established 90% test coverage with Jest and Cypress.
+
+### **PRECODE** (Front-End Developer)
+_Mai 2022 - Jan 2024 | Maringá_
+- 🛍️ **E-commerce**: Built the frontend for a scalable White-label platform.
+- 🎫 **LiveDesk**: Enhanced the UX of TIM's internal ticket system.
+- 📊 **SEO**: Achieved top Core Web Vitals scores.
+
+### **COMEIA** (Front-End Developer)
+_Jul 2021 - Mai 2022 | Caruaru_
+- 🚲 **Mobile App**: Developed "Bike-MV" using Vue.js and Capacitor/Cordova concepts.
+
+### **OGI Sistemas** (Full Stack Developer)
+_Mar 2019 - Mai 2021 | Porto Alegre_
+- 🐘 **Legacy to Modern**: Maintained and evolved PHP (Yii2) monoliths.
+
+</details>
 
 ---
 
-## 🌐 Redes & Portfólio
+## 📊 GitHub Analytics
 
-<p align="left">
-<a href="https://codepen.io/albsonxavier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrealbson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://fb.com/andrealbson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/andre_albson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.behance.net/andralbson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=transparent&hide_border=true&title_color=4285f4&text_color=5f6368&icon_color=34a853&bg_color=00000000&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=transparent&hide_border=true&title_color=ea4335&text_color=5f6368&bg_color=00000000&langs_count=8" height="180px"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=albsondev&theme=transparent&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=5f6368&dates=5f6368&stroke=00000000&background=00000000" width="100%"/>
+</div>
+<br>
+<!-- Trophies Section -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=albsondev&theme=flat&no-frame=true&margin-w=15&no-bg=true" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center" style="font-size: 12px; color: #5f6368;">
+  Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & AI
+</div>
