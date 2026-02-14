@@ -207,6 +207,18 @@ Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I stro
 <br/>
 
 <div align="center">
+  <h2 style="color: #5f6368;">🎖️ GitHub Official Medals</h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=albsondev&repo=meu-git&theme=tokyonight&bg_color=202124&hide_border=true&title_color=4285f4" height="120px" />
+  <br>
+  <img src="https://img.shields.io/badge/Open_Source-Shark-4285f4?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quickdraw-Achieved-34a853?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-Badge-ea4335?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Galaxy_Brain-Confirmed-fbbc05?style=flat&logo=github&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
   <h2 style="color: #5f6368;">📊 GitHub Analytics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285f4&text_color=bdc1c6&icon_color=34a853&bg_color=202124&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=tokyonight&hide_border=true&title_color=ea4335&text_color=bdc1c6&bg_color=202124&langs_count=8" height="180px"/>
@@ -214,7 +226,15 @@ Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I stro
 <div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com?user=albsondev&theme=tokyonight&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=bdc1c6&dates=bdc1c6&stroke=00000000&background=202124" width="100%"/>
 </div>
+
 <br>
+
+<div align="center">
+  <h2 style="color: #5f6368;">🏆 GitHub Trophies</h2>
+  <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
+</div>
+
+<br/>
 
 <div align="center" style="font-size: 12px; color: #5f6368;">
   Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & IA
