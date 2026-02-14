@@ -206,7 +206,7 @@ Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I stro
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=albsondev&theme=ocean&no-frame=true&margin-w=15&no-bg=true" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=albsondev&theme=onedark)](https://github.com/albsondev)
   </a>
 </div>
 
