@@ -4,6 +4,12 @@
 </a>
 <br />
 
+<style>
+  body, html {
+    background-color: #26292d;
+  }
+</style>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
 </div>
