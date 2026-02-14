@@ -4,11 +4,7 @@
 </a>
 <br />
 
-<style>
-  body, html {
-    background-color: #26292d;
-  }
-</style>
+<div style="background-color: #26292d; padding: 20px; border-radius: 10px;">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
@@ -219,4 +215,5 @@ _Mar 2019 - Mai 2021 | Porto Alegre_
 
 <div align="center" style="font-size: 12px; color: #5f6368;">
   Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & AI
+</div>
 </div>
