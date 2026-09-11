@@ -62,36 +62,20 @@ def text(x, y, label, size=16, fill='#ecf2fa', extra=''):
 def svg(data):
     repos, own, langs, stars = summarize(data)
     date = datetime.strptime(data['consulted_at'], '%Y-%m-%d').strftime('%d/%m/%Y')
-    shown = langs[:8]
-    if len(langs) > 8:
-        shown = langs[:7] + [('Outras', sum(n for _, n in langs[7:]))]
-    parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">',
-             '<title id="title">GitHub em ritmo — André Albson</title>',
-             '<desc id="desc">Estatísticas públicas. Barras representam quantidades de repositórios sem fork por linguagem principal. A luz móvel é decorativa.</desc>',
-             '<defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.7" fill="#253247"/></pattern></defs>',
-             '<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace}.scan{animation:scan 9s linear infinite}@keyframes scan{from{transform:translateX(0)}to{transform:translateX(866px)}}@media(prefers-reduced-motion:reduce){.scan{animation:none;display:none}}</style>',
-             '<rect x="1" y="1" width="998" height="508" rx="20" fill="#101923" stroke="#2a394b"/>',
-             '<rect x="20" y="20" width="960" height="470" fill="url(#grid)" opacity="0.45"/>',
-             text(38, 40, '02 / CÓDIGO EM RITMO', 12, '#79e6ce', 'letter-spacing="2" class="mono"'),
-             text(962, 40, 'DADOS PÚBLICOS', 11, '#92a1b7', 'text-anchor="end" letter-spacing="2"')]
-    metrics = [(len(repos), 'REPOSITÓRIOS'), (len(own), 'SEM FORK'), (len(repos)-len(own), 'FORKS'), (stars, 'ESTRELAS · SEM FORK')]
+    parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="216" viewBox="0 0 1100 216" role="img" aria-labelledby="title">',
+             '<title id="title">GitHub público — André Albson</title>',
+             '<style>text{font-family:Arial,Helvetica,sans-serif}</style>',
+             '<rect x="1" y="1" width="1098" height="214" rx="18" fill="#101923" stroke="#2a394b"/>',
+             text(32, 35, 'GITHUB / REGISTRO PÚBLICO', 12, '#79e6ce', 'letter-spacing="2"')]
+    metrics = [(len(repos), 'REPOSITÓRIOS PÚBLICOS'), (len(own), 'SEM FORK'), (len(repos)-len(own), 'FORKS'), (stars, 'ESTRELAS · SEM FORK')]
     for i, (n, label) in enumerate(metrics):
-        x = 38 + i*245
-        parts += [text(x, 107, n, 44, '#ecf2fa', 'font-weight="700"'), text(x, 134, label, 11, '#92a1b7', 'letter-spacing="1.3"')]
-    parts += ['<path d="M38 160H962" stroke="#2a394b"/>', text(38, 190, 'Cada linguagem, uma voz.', 21, '#ecf2fa', 'font-weight="700"'), text(38, 215, 'Repositórios sem fork, agrupados pela linguagem principal.', 14, '#92a1b7')]
-    max_n = max((n for _, n in shown), default=1)
-    for i, (lang, count) in enumerate(shown):
-        x = 72 + i*116
-        height = count/max_n*140
-        parts.append(f'<rect x="{x}" y="245" width="42" height="150" rx="5" fill="#1a2837"/>')
-        parts.append(f'<rect x="{x}" y="{395-height:.2f}" width="42" height="{height:.2f}" rx="5" fill="{COLORS[i]}"/>')
-        for y in range(251, 393, 8):
-            parts.append(f'<path d="M{x} {y}h42" stroke="#101923" stroke-width="2"/>')
-        parts += [text(x+21, 238, count, 16, COLORS[i], 'text-anchor="middle" font-weight="700"'), text(x+21, 422, lang, 13, '#c5cfdd', 'text-anchor="middle"')]
-    parts += ['<rect class="scan" x="48" y="245" width="2" height="150" fill="#ffffff" opacity="0.15"/>',
-              '<path d="M38 445H962" stroke="#2a394b"/>',
-              text(38, 475, 'DADOS REAIS. UMA ASSINATURA PESSOAL.', 10, '#79e6ce', 'letter-spacing="1.5" class="mono"'),
-              text(962, 475, f'Consulta: {date} · UTC', 12, '#92a1b7', 'text-anchor="end"'), '</svg>']
+        x = 32 + i*272
+        parts += [text(x, 109, n, 46, '#ecf2fa', 'font-weight="700"'), text(x, 138, label, 12, '#a5b4c8', 'letter-spacing="1"')]
+        if i:
+            parts.append(f'<path d="M{x-22} 64v83" stroke="#2a394b"/>')
+    parts += ['<path d="M32 165H1068" stroke="#2a394b"/>',
+              text(32, 193, 'Repositórios e estrelas não medem proficiência.', 13, '#a5b4c8'),
+              text(1068, 193, f'Consulta: {date} · UTC', 12, '#a5b4c8', 'text-anchor="end"'), '</svg>']
     return '\n'.join(parts) + '\n'
 
 
@@ -102,10 +86,7 @@ def update(data):
     date = datetime.strptime(data['consulted_at'], '%Y-%m-%d').strftime('%d/%m/%Y')
     unknown = len(own) - sum(n for _, n in langs)
     summary = f'**{len(repos)} repositórios públicos · {len(own)} sem fork · {len(repos)-len(own)} forks · {stars} estrelas nos repositórios sem fork.**'
-    summary += '\n\nLinguagem principal dos repositórios sem fork: **' + ' · '.join(f'{lang} {n}' for lang, n in langs) + '**.'
-    if unknown:
-        summary += f' Outros **{unknown}** não têm linguagem principal identificada pelo GitHub.'
-    summary += f'\n\n<sub>Dados públicos consultados em {date} (UTC). Cada repositório conta uma vez, pela linguagem principal informada pelo GitHub. Esses números não representam tempo de experiência nem nível de domínio.</sub>'
+    summary += f'\n\n<sub>Dados públicos consultados em {date} (UTC). Contagens de repositórios e estrelas descrevem a conta, não o nível de domínio de uma tecnologia.</sub>'
     readme = ROOT / 'README.md'
     original = readme.read_text(encoding='utf-8')
     updated, count = re.subn(r'<!-- METRICS:START -->.*?<!-- METRICS:END -->',
@@ -115,7 +96,7 @@ def update(data):
         raise ValueError('O README deve conter exatamente um bloco METRICS.')
     rendered = svg(data)
     (ROOT / 'assets').mkdir(exist_ok=True)
-    (ROOT / 'assets/github-em-ritmo.svg').write_text(rendered, encoding='utf-8')
+    (ROOT / 'assets/github-publico.svg').write_text(rendered, encoding='utf-8')
     (ROOT / 'assets/dados-publicos.json').write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     readme.write_text(updated, encoding='utf-8')
     print(f'Painel atualizado: {len(repos)} repositórios públicos, {len(own)} sem fork, {len(langs)} linguagens principais.')

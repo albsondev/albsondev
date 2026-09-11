@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="528" viewBox="0 0 1100 528" role="img" aria-labelledby="title"><title id="title">Mapa de competências: fundamentos da web, interfaces, back-end e dados</title>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#3a4c64"/></pattern><linearGradient id="shade" x2="1" y2="1"><stop stop-color="#1a293d"/><stop offset="1" stop-color="#101923"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace}.blink{animation:blink 2s steps(2,end) infinite}.flow{stroke-dasharray:5 10;animation:flow 4s linear infinite}@keyframes blink{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-60}}@media(prefers-reduced-motion:reduce){.blink,.flow{animation:none}}</style>
+<rect x="1" y="1" width="1098" height="526" rx="18" fill="#101923" stroke="#293b51"/>
+<text x="32" y="36" font-size="11" fill="#79e6ce" letter-spacing="1.6" class="mono">STACK / MAPA DE COMPETÊNCIAS</text>
+<text x="32" y="79" font-size="28" fill="#edf2fa" font-weight="700">Fundamentos sólidos. Escolhas com contexto.</text>
+<text x="32" y="107" font-size="16" fill="#a5b4c8" >Tecnologias organizadas por aplicação no trabalho.</text>
+<rect x="32" y="133" width="244" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<rect x="48" y="150" width="60" height="34" rx="7" fill="#0e1825" stroke="none"/>
+<text x="78" y="173" font-size="16" fill="#f0d56b" font-weight="700" text-anchor="middle">JS</text>
+<text x="48" y="219" font-size="23" fill="#edf2fa" font-weight="700">JavaScript</text>
+<text x="48" y="246" font-size="14" fill="#a5b4c8" >Lógica e interação</text>
+<rect x="296" y="133" width="244" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<rect x="312" y="150" width="60" height="34" rx="7" fill="#0e1825" stroke="none"/>
+<text x="342" y="173" font-size="16" fill="#82b6ff" font-weight="700" text-anchor="middle">TS</text>
+<text x="312" y="219" font-size="23" fill="#edf2fa" font-weight="700">TypeScript</text>
+<text x="312" y="246" font-size="14" fill="#a5b4c8" >Tipagem e contratos</text>
+<rect x="560" y="133" width="244" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<rect x="576" y="150" width="60" height="34" rx="7" fill="#0e1825" stroke="none"/>
+<text x="606" y="173" font-size="16" fill="#ffa078" font-weight="700" text-anchor="middle">HTML</text>
+<text x="576" y="219" font-size="23" fill="#edf2fa" font-weight="700">HTML</text>
+<text x="576" y="246" font-size="14" fill="#a5b4c8" >Estrutura e semântica</text>
+<rect x="824" y="133" width="244" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<rect x="840" y="150" width="60" height="34" rx="7" fill="#0e1825" stroke="none"/>
+<text x="870" y="173" font-size="16" fill="#b5a2ff" font-weight="700" text-anchor="middle">CSS</text>
+<text x="840" y="219" font-size="23" fill="#edf2fa" font-weight="700">CSS</text>
+<text x="840" y="246" font-size="14" fill="#a5b4c8" >Layout e responsividade</text>
+<rect x="32" y="294" width="332" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="50" y="325" font-size="11" fill="#79e6ce" letter-spacing="1.6" class="mono">INTERFACES</text>
+<text x="50" y="367" font-size="21" fill="#edf2fa" font-weight="700">React · Next.js</text>
+<text x="50" y="402" font-size="16" fill="#a5b4c8" >Vue · Angular · Tailwind</text>
+<rect x="384" y="294" width="332" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="402" y="325" font-size="11" fill="#a7b4ff" letter-spacing="1.6" class="mono">BACK-END E AUTOMAÇÃO</text>
+<text x="402" y="367" font-size="21" fill="#edf2fa" font-weight="700">Node.js · PHP · Python</text>
+<text x="402" y="402" font-size="16" fill="#a5b4c8" >APIs · integrações · scripts</text>
+<rect x="736" y="294" width="332" height="139" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="754" y="325" font-size="11" fill="#f0d56b" letter-spacing="1.6" class="mono">DADOS E AMBIENTE</text>
+<text x="754" y="367" font-size="21" fill="#edf2fa" font-weight="700">PostgreSQL · MySQL</text>
+<text x="754" y="402" font-size="16" fill="#a5b4c8" >MongoDB · Docker · Git</text>
+<path d="M32 456h1036" fill="none" stroke="#293b51" />
+<text x="32" y="489" font-size="16" fill="#a5b4c8" >Arquitetura modular · Micro frontends · Revisão de código · IA aplicada</text>
+</svg>

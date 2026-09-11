@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/codigo-e-musica.svg" width="100%" alt="André Albson — desenvolvimento full stack. Código, produto e criatividade na mesma composição." />
+  <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
 </p>
 
 <h1 align="center">André Albson</h1>
@@ -25,7 +25,7 @@
 ---
 
 <a id="sobre"></a>
-## O cuidado com a interface. A visão do sistema inteiro.
+## Seu usuário vê a interface. Eu cuido do caminho inteiro.
 
 Sou um desenvolvedor com base forte em **front-end** e atuação de ponta a ponta: da experiência de quem usa à API, aos dados e às integrações que sustentam o produto.
 
@@ -43,11 +43,13 @@ Hoje também exploro **IA aplicada à engenharia de software**, usando ferrament
 <a id="projetos"></a>
 ## Código que você pode explorar
 
-Uma seleção de projetos e desafios técnicos públicos que mostram diferentes partes do meu trabalho.
+Uma seleção de projetos e desafios técnicos públicos que mostram diferentes partes do meu trabalho. As ilustrações são esquemas dos projetos, com links para explorar o código.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="./assets/projeto-b2blue.svg" width="100%" alt="Esquema visual: B2Blue — controle de armazenamento" />
 
 ### 01 · B2Blue — controle de armazenamento
 
@@ -63,6 +65,8 @@ Desafio técnico com três estações de armazenamento: ao atingir **80% de ocup
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/projeto-wemovies.svg" width="100%" alt="Esquema visual: WeMovies — jornada de compra" />
 
 ### 02 · WeMovies — jornada de compra
 
@@ -81,6 +85,8 @@ Desafio de e-commerce de filmes com catálogo, carrinho, ajuste de quantidades e
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/projeto-microfrontends.svg" width="100%" alt="Esquema visual: Gestão de clientes — micro frontends" />
+
 ### 03 · Gestão de clientes — micro frontends
 
 **Três ecossistemas compondo uma aplicação.**
@@ -95,6 +101,8 @@ Desafio técnico de cadastro, edição, exclusão e seleção de clientes, estru
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/projeto-fixflow.svg" width="100%" alt="Esquema visual: FixFlow — controle de manutenções" />
 
 ### 04 · FixFlow — controle de manutenções
 
@@ -141,12 +149,18 @@ Além dos repositórios públicos, participei de produtos e operações com nece
 <a id="stack"></a>
 ## Minha caixa de ferramentas
 
+<p>
+  <img src="./assets/mapa-competencias.svg" width="100%" alt="Base front-end: JavaScript, TypeScript, HTML e CSS. Interfaces: React, Next.js, Vue e Angular. Back-end e automação: Node.js, PHP e Python. Dados: PostgreSQL, MySQL e MongoDB." />
+</p>
+
+**Minha base é a web:** JavaScript, HTML e CSS, com TypeScript e frameworks para organizar aplicações maiores. No back-end e nas automações, trabalho também com **Node.js, PHP e Python**. A escolha depende do problema, da equipe e do sistema que já existe.
+
 | Área | Tecnologias e práticas |
 | :--- | :--- |
-| **Linguagens** | JavaScript · TypeScript · PHP · Python |
+| **Fundamentos da web** | **JavaScript · TypeScript · HTML · CSS** |
 | **Front-end** | React · Next.js · Vue · Angular · HTML · CSS |
 | **UI e componentes** | Tailwind CSS · Storybook · Bootstrap · Material UI |
-| **Back-end e integração** | Node.js · APIs REST · GraphQL · WebSockets |
+| **Back-end e automação** | **Node.js · PHP · Python** · APIs REST · GraphQL · WebSockets |
 | **Dados e ambiente** | PostgreSQL · MySQL · MongoDB · Docker · Git |
 | **Qualidade** | Jest · Cypress · revisão de código · documentação técnica |
 | **Arquitetura** | Micro frontends · Module Federation · monorepos · DDD |
@@ -163,20 +177,16 @@ Além dos repositórios públicos, participei de produtos e operações com nece
 </details>
 
 <a id="github"></a>
-## Meu código também tem ritmo
-
-Fora do desenvolvimento, sou **tecladista**. Trouxe um pouco dessa identidade para o perfil: o painel abaixo transforma a distribuição dos meus repositórios em um equalizador visual.
+## Atividade pública no GitHub
 
 <p>
-  <img src="./assets/github-em-ritmo.svg" width="100%" alt="Painel de estatísticas públicas e gráfico das linguagens principais dos repositórios sem fork de albsondev. Os números também estão disponíveis no texto abaixo." />
+  <img src="./assets/github-publico.svg" width="100%" alt="Resumo dos repositórios públicos de albsondev; os mesmos números estão disponíveis no texto abaixo." />
 </p>
 
 <!-- METRICS:START -->
 **65 repositórios públicos · 40 sem fork · 25 forks · 13 estrelas nos repositórios sem fork.**
 
-Linguagem principal dos repositórios sem fork: **TypeScript 17 · JavaScript 4 · Vue 4 · Python 3 · HTML 2 · Kotlin 2 · Java 1 · PHP 1**. Outros **6** não têm linguagem principal identificada pelo GitHub.
-
-<sub>Dados públicos consultados em 11/09/2026 (UTC). Cada repositório conta uma vez, pela linguagem principal informada pelo GitHub. Esses números não representam tempo de experiência nem nível de domínio.</sub>
+<sub>Dados públicos consultados em 11/09/2026 (UTC). Contagens de repositórios e estrelas descrevem a conta, não o nível de domínio de uma tecnologia.</sub>
 <!-- METRICS:END -->
 
 ---
@@ -190,4 +200,4 @@ Se você tem um produto para construir, uma interface para melhorar ou sistemas 
 **[Converse comigo no LinkedIn →](https://www.linkedin.com/in/andrealbson/)**  
 **[albsondev@outlook.com](mailto:albsondev@outlook.com)**
 
-<p align="center"><sub>De Pernambuco para a web. Com atenção ao detalhe — no código e no teclado.</sub></p>
+<p align="center"><sub>“Aqui funciona” é o começo da investigação, não o fim da entrega.</sub></p>

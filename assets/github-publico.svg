@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="216" viewBox="0 0 1100 216" role="img" aria-labelledby="title">
+<title id="title">GitHub público — André Albson</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect x="1" y="1" width="1098" height="214" rx="18" fill="#101923" stroke="#2a394b"/>
+<text x="32" y="35" font-size="12" fill="#79e6ce" letter-spacing="2">GITHUB / REGISTRO PÚBLICO</text>
+<text x="32" y="109" font-size="46" fill="#ecf2fa" font-weight="700">65</text>
+<text x="32" y="138" font-size="12" fill="#a5b4c8" letter-spacing="1">REPOSITÓRIOS PÚBLICOS</text>
+<text x="304" y="109" font-size="46" fill="#ecf2fa" font-weight="700">40</text>
+<text x="304" y="138" font-size="12" fill="#a5b4c8" letter-spacing="1">SEM FORK</text>
+<path d="M282 64v83" stroke="#2a394b"/>
+<text x="576" y="109" font-size="46" fill="#ecf2fa" font-weight="700">25</text>
+<text x="576" y="138" font-size="12" fill="#a5b4c8" letter-spacing="1">FORKS</text>
+<path d="M554 64v83" stroke="#2a394b"/>
+<text x="848" y="109" font-size="46" fill="#ecf2fa" font-weight="700">13</text>
+<text x="848" y="138" font-size="12" fill="#a5b4c8" letter-spacing="1">ESTRELAS · SEM FORK</text>
+<path d="M826 64v83" stroke="#2a394b"/>
+<path d="M32 165H1068" stroke="#2a394b"/>
+<text x="32" y="193" font-size="13" fill="#a5b4c8" >Repositórios e estrelas não medem proficiência.</text>
+<text x="1068" y="193" font-size="12" fill="#a5b4c8" text-anchor="end">Consulta: 11/09/2026 · UTC</text>
+</svg>

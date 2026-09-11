@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="238" viewBox="0 0 520 238" role="img" aria-labelledby="title"><title id="title">WeMovies — esquema ilustrativo</title>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#3a4c64"/></pattern><linearGradient id="shade" x2="1" y2="1"><stop stop-color="#1a293d"/><stop offset="1" stop-color="#101923"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace}.blink{animation:blink 2s steps(2,end) infinite}.flow{stroke-dasharray:5 10;animation:flow 4s linear infinite}@keyframes blink{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-60}}@media(prefers-reduced-motion:reduce){.blink,.flow{animation:none}}</style>
+<rect x="1" y="1" width="518" height="236" rx="18" fill="#101923" stroke="#293b51"/>
+<text x="22" y="28" font-size="11" fill="#a7b4ff" letter-spacing="1.6" class="mono">02 / EXPERIÊNCIA DE COMPRA</text>
+<text x="498" y="28" font-size="10" fill="#a5b4c8" text-anchor="end" letter-spacing="1">ESQUEMA</text>
+<rect x="26" y="54" width="65" height="96" rx="12" fill="#182a40" stroke="#293b51"/>
+<rect x="35" y="64" width="47" height="52" rx="4" fill="#a7b4ff" stroke="none"/>
+<path d="M37 129h34" fill="none" stroke="#a5b4c8" />
+<path d="M37 138h24" fill="none" stroke="#a5b4c8" />
+<rect x="104" y="54" width="65" height="96" rx="12" fill="#182a40" stroke="#293b51"/>
+<rect x="113" y="64" width="47" height="52" rx="4" fill="#79e6ce" stroke="none"/>
+<path d="M115 129h34" fill="none" stroke="#a5b4c8" />
+<path d="M115 138h24" fill="none" stroke="#a5b4c8" />
+<rect x="182" y="54" width="65" height="96" rx="12" fill="#182a40" stroke="#293b51"/>
+<rect x="191" y="64" width="47" height="52" rx="4" fill="#efc56d" stroke="none"/>
+<path d="M193 129h34" fill="none" stroke="#a5b4c8" />
+<path d="M193 138h24" fill="none" stroke="#a5b4c8" />
+<path d="M276 106h50" fill="none" stroke="#a7b4ff" class="flow"/>
+<rect x="352" y="54" width="142" height="113" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="423" y="82" font-size="11" fill="#a5b4c8" text-anchor="middle" letter-spacing="1">CARRINHO</text>
+<path d="M382 96h13l5 30h57l8-23h-67" fill="none" stroke="#79e6ce" stroke-width="2"/>
+<circle cx="408" cy="139" r="3" fill="#79e6ce"/><circle cx="451" cy="139" r="3" fill="#79e6ce"/>
+<rect x="26" y="174" width="468" height="24" rx="5" fill="#233347" stroke="none"/>
+<text x="260" y="191" font-size="11" fill="#edf2fa" text-anchor="middle">CATÁLOGO     /     CARRINHO     /     CHECKOUT</text>
+<text x="26" y="220" font-size="11" fill="#a5b4c8" letter-spacing="1.6" class="mono">ESTADO GLOBAL + INTERAÇÃO RESPONSIVA</text>
+</svg>

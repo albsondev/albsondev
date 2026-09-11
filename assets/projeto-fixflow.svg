@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="238" viewBox="0 0 520 238" role="img" aria-labelledby="title"><title id="title">FixFlow — esquema ilustrativo</title>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#3a4c64"/></pattern><linearGradient id="shade" x2="1" y2="1"><stop stop-color="#1a293d"/><stop offset="1" stop-color="#101923"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:monospace}.blink{animation:blink 2s steps(2,end) infinite}.flow{stroke-dasharray:5 10;animation:flow 4s linear infinite}@keyframes blink{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-60}}@media(prefers-reduced-motion:reduce){.blink,.flow{animation:none}}</style>
+<rect x="1" y="1" width="518" height="236" rx="18" fill="#101923" stroke="#293b51"/>
+<text x="22" y="28" font-size="11" fill="#82cfff" letter-spacing="1.6" class="mono">04 / DESENVOLVIMENTO FULL STACK</text>
+<text x="498" y="28" font-size="10" fill="#a5b4c8" text-anchor="end" letter-spacing="1">ESQUEMA</text>
+<rect x="26" y="55" width="185" height="132" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="43" y="78" font-size="11" fill="#a7b4ff" letter-spacing="1.6" class="mono">FRONT-END</text>
+<text x="43" y="105" font-size="22" fill="#edf2fa" font-weight="700">TypeScript</text>
+<rect x="43" y="124" width="149" height="44" rx="4" fill="#0c1723" stroke="none"/>
+<rect x="51" y="132" width="37" height="28" rx="3" fill="#253953" stroke="none"/>
+<path d="M56 140h23M56 149h16" fill="none" stroke="#a5b4c8" />
+<rect x="96" y="132" width="37" height="28" rx="3" fill="#253953" stroke="none"/>
+<path d="M101 140h23M101 149h16" fill="none" stroke="#a5b4c8" />
+<rect x="141" y="132" width="37" height="28" rx="3" fill="#253953" stroke="none"/>
+<path d="M146 140h23M146 149h16" fill="none" stroke="#a5b4c8" />
+<path d="M224 111h66M290 135h-66" fill="none" stroke="#79e6ce" class="flow"/>
+<rect x="305" y="55" width="189" height="132" rx="12" fill="#152332" stroke="#293b51"/>
+<text x="322" y="78" font-size="11" fill="#79e6ce" letter-spacing="1.6" class="mono">BACK-END</text>
+<text x="322" y="105" font-size="22" fill="#edf2fa" font-weight="700">Python</text>
+<text x="322" y="137" font-size="13" fill="#a5b4c8" >regras de negócio</text>
+<text x="322" y="159" font-size="12" fill="#a5b4c8" >controle de manutenções</text>
+<text x="26" y="220" font-size="11" fill="#a5b4c8" letter-spacing="1.6" class="mono">RESPONSABILIDADES BEM DEFINIDAS</text>
+</svg>
