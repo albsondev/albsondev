@@ -5,237 +5,225 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=220&section=header&text=André%20Albson&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Applied%20Engineering%20Specialist&descAlign=50&descSize=20&descAlignY=65" width="100%"/>
-</div>
-
-<h3 align="center">
-  <samp>Building the bridge between complex problems and elegant, intelligent solutions.</samp>
-</h3>
-
-<div align="center">
-  <a href="https://linkedin.com/in/andrealbson">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:albsondev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://codepen.io/albsonxavier">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://instagram.com/andre_albson">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br />
-
-<table style="width: 100%; border-collapse: collapse; background-color: #202124; border-radius: 12px; border: 1px solid #3c4043;">
-<tr>
-<td style="padding: 30px;">
-
-<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🧑‍💻 About Me</h2>
-
-<p style="color: #e8eaed; font-size: 1.1em; line-height: 1.6;">
-<strong>"I don't just write code; I architect solutions."</strong><br><br>
-My journey began with a curiosity for how things work, leading me from <strong>Technical Informatics</strong> to becoming a <strong>Senior Full Stack Developer</strong>. Over the last <strong>10+ years</strong>, I have evolved from building simple websites to architecting complex, high-performance systems for major telecom and e-commerce players.<br><br>
-Currently, I am pivoting towards <strong>AI Applied Engineering</strong>. I strongly believe that the future of development lies in the synergy between human creativity and artificial intelligence. I specialize in using <strong>Generative AI</strong> not just to write code faster, but to create smarter, self-documenting, and adaptable systems ("Memory Bank" concepts).<br><br>
-<strong>My Core Mission:</strong> To leverage AI and modern web technologies to automate the mundane and empower users with intuitive, powerful interfaces.
+<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>André Albson · Prévia do README</title><style>
+ :root{color-scheme:dark;--bg:#0d1117;--panel:#0d1117;--fg:#e6edf3;--muted:#919ba8;--line:#30363d;--link:#85b8ff;--code:#202830;--row:#151b23}
+ :root.light{color-scheme:light;--bg:#f6f8fa;--panel:#fff;--fg:#1f2328;--muted:#59636e;--line:#d1d9e0;--link:#0969da;--code:#eff1f3;--row:#f6f8fa}
+ *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}nav{max-width:1056px;margin:28px auto 12px;padding:0 24px;display:flex;justify-content:space-between;gap:16px;font-size:13px;color:var(--muted)}nav span{align-self:center}button{padding:9px 14px;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:8px;cursor:pointer}main{max-width:1056px;margin:0 auto 50px;padding:34px 32px;border:1px solid var(--line);border-radius:12px;background:var(--panel)}h1,h2{line-height:1.3;border-bottom:1px solid var(--line);padding-bottom:.3em}h1{font-size:2em;margin-top:20px}h2{font-size:1.5em;margin-top:36px}h3{font-size:1.12em;line-height:1.45;margin-top:18px}p{margin:16px 0}a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--link);outline-offset:3px}img{max-width:100%;vertical-align:middle}table{border-collapse:collapse;width:100%;margin:20px 0;font-size:15px}td,th{border:1px solid var(--line);padding:12px 15px}th{text-align:left}tr:nth-child(2n){background:var(--row)}td[width]{padding:8px 20px 16px}td[width] h3{color:var(--fg)}code{background:var(--code);font:85% ui-monospace,SFMono-Regular,Consolas,monospace;border-radius:5px;padding:3px 6px;white-space:normal}hr{border:0;border-top:1px solid var(--line);margin:28px 0}sub{font-size:12px;color:var(--muted);vertical-align:baseline}summary{cursor:pointer;margin-top:20px}details{border:1px solid var(--line);border-radius:8px;padding:0 16px 12px;margin:24px 0}li{margin:6px 0}details[open]{padding-bottom:20px}a[id]{scroll-margin-top:20px} @media(max-width:650px){main{padding:18px 14px;border:0}nav{padding:0 14px}table{font-size:13px}td,th{padding:9px}td[width]{display:block;width:100%;padding:10px 14px}h1{font-size:1.8em}h2{font-size:1.3em}}@media print{nav{display:none}main{border:0;margin:0}details{break-inside:avoid}}
+ </style></head><body><nav><span>albsondev / README.md · prévia local</span><button type="button" id="theme" aria-pressed="false">Alternar tema</button></nav><main><p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjMzMCIgdmlld0JveD0iMCAwIDEwMDAgMzMwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+Cjx0aXRsZSBpZD0idGl0bGUiPkPDs2RpZ28sIHByb2R1dG8gZSBjcmlhdGl2aWRhZGUg4oCUIEFuZHLDqSBBbGJzb248L3RpdGxlPgo8ZGVzYyBpZD0iZGVzYyI+VW1hIGNvbXBvc2nDp8OjbyB2ZXRvcmlhbCBkZSBlZGl0b3IgZGUgY8OzZGlnbyBlIHRlY2xhZG8gbXVzaWNhbC4gRGVzZW52b2x2aW1lbnRvIGZ1bGwgc3RhY2sgY29tIGF0ZW7Dp8OjbyBhbyBkZXRhbGhlLjwvZGVzYz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBzdG9wLWNvbG9yPSIjMTcyMzM0Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGQxNDFlIi8+PC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lIj48c3RvcCBzdG9wLWNvbG9yPSIjNzllNmNlIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTU5ZGZmIi8+PC9saW5lYXJHcmFkaWVudD4KPHBhdHRlcm4gaWQ9ImRvdHMiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PGNpcmNsZSBjeD0iMSIgY3k9IjEiIHI9IjAuOCIgZmlsbD0iIzM1NDM1NSIvPjwvcGF0dGVybj4KPC9kZWZzPgo8c3R5bGU+dGV4dHtmb250LWZhbWlseTpBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZn0ubW9ub3tmb250LWZhbWlseTptb25vc3BhY2V9LmtleXthbmltYXRpb246cGxheSA1cyBlYXNlLWluLW91dCBpbmZpbml0ZX0uY3Vyc29ye2FuaW1hdGlvbjpibGluayAycyBzdGVwLWVuZCBpbmZpbml0ZX1Aa2V5ZnJhbWVzIHBsYXl7MCUsMTUlLDQ1JSwxMDAle29wYWNpdHk6MH0yMCUsNDAle29wYWNpdHk6MX19QGtleWZyYW1lcyBibGlua3s1MCV7b3BhY2l0eTowfX1AbWVkaWEocHJlZmVycy1yZWR1Y2VkLW1vdGlvbjpyZWR1Y2Upey5rZXl7YW5pbWF0aW9uOm5vbmU7b3BhY2l0eTouMjV9LmN1cnNvcnthbmltYXRpb246bm9uZX19PC9zdHlsZT4KPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9Ijk5OCIgaGVpZ2h0PSIzMjgiIHJ4PSIyMCIgZmlsbD0idXJsKCNiZykiIHN0cm9rZT0iIzJhMzk0YiIvPgo8cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iOTk4IiBoZWlnaHQ9IjMyOCIgcng9IjIwIiBmaWxsPSJ1cmwoI2RvdHMpIiBvcGFjaXR5PSIuMzYiLz4KPHBhdGggZD0iTTM4IDFoMjMwIiBzdHJva2U9InVybCgjbGluZSkiIHN0cm9rZS13aWR0aD0iMyIvPgo8dGV4dCB4PSI0MCIgeT0iNDQiIGZvbnQtc2l6ZT0iMTIiIGxldHRlci1zcGFjaW5nPSIyIiBmaWxsPSIjNzllNmNlIiBjbGFzcz0ibW9ubyI+QUxCU09OREVWIC8gRU5HRU5IQVJJQSArIENSSUFUSVZJREFERTwvdGV4dD4KPHRleHQgeD0iNDAiIHk9IjExMyIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2YzZjVmYSI+Q8OzZGlnbyBjb20gaW50ZW7Dp8Ojby48L3RleHQ+Cjx0ZXh0IHg9IjQwIiB5PSIxNjkiIGZvbnQtc2l6ZT0iNDYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiM5ZWFmZmYiPkV4cGVyacOqbmNpYXMgY29tIHJpdG1vLjwvdGV4dD4KPHRleHQgeD0iNDIiIHk9IjIxMSIgZm9udC1zaXplPSIxNyIgZmlsbD0iI2E1YjRjOCI+SW50ZXJmYWNlcyBjbGFyYXMuIFNpc3RlbWFzIGNvbmVjdGFkb3MuIEF0ZW7Dp8OjbyBhbyBkZXRhbGhlLjwvdGV4dD4KPHBhdGggZD0iTTQyIDIzOWg1MTAiIHN0cm9rZT0iIzMzNDE1NiIvPgo8dGV4dCB4PSI0MiIgeT0iMjcyIiBmb250LXNpemU9IjEyIiBsZXR0ZXItc3BhY2luZz0iMSIgZmlsbD0iI2QzZGJlNyIgY2xhc3M9Im1vbm8iPkZST05ULUVORDwvdGV4dD4KPGNpcmNsZSBjeD0iMTQ2IiBjeT0iMjY3IiByPSIyIiBmaWxsPSIjNzllNmNlIi8+Cjx0ZXh0IHg9IjE2MSIgeT0iMjcyIiBmb250LXNpemU9IjEyIiBsZXR0ZXItc3BhY2luZz0iMSIgZmlsbD0iI2QzZGJlNyIgY2xhc3M9Im1vbm8iPkZVTEwgU1RBQ0s8L3RleHQ+CjxjaXJjbGUgY3g9IjI3NSIgY3k9IjI2NyIgcj0iMiIgZmlsbD0iIzc5ZTZjZSIvPgo8dGV4dCB4PSIyOTAiIHk9IjI3MiIgZm9udC1zaXplPSIxMiIgbGV0dGVyLXNwYWNpbmc9IjEiIGZpbGw9IiNkM2RiZTciIGNsYXNzPSJtb25vIj5JQSBBUExJQ0FEQTwvdGV4dD4KPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjg1IDY3KSI+CjxyZWN0IHdpZHRoPSIyNzMiIGhlaWdodD0iMTk3IiByeD0iMTIiIGZpbGw9IiMwYjEzMWQiIHN0cm9rZT0iIzM2NDY1YyIvPgo8cGF0aCBkPSJNMCAzMUgyNzMiIHN0cm9rZT0iIzJhMzk0YiIvPgo8Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIzIiBmaWxsPSIjZjM5ZmE5Ii8+PGNpcmNsZSBjeD0iMjkiIGN5PSIxNiIgcj0iMyIgZmlsbD0iI2YyY2Q4OCIvPjxjaXJjbGUgY3g9IjQyIiBjeT0iMTYiIHI9IjMiIGZpbGw9IiM3OWU2Y2UiLz4KPHRleHQgeD0iMjUxIiB5PSIyMCIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1zaXplPSI5IiBmaWxsPSIjOTJhMWI3IiBjbGFzcz0ibW9ubyI+Y29tcG9zaWNhby50czwvdGV4dD4KPHRleHQgeD0iMTkiIHk9IjYzIiBmb250LXNpemU9IjEyIiBmaWxsPSIjOWVhZmZmIiBjbGFzcz0ibW9ubyI+Y29uc3Q8L3RleHQ+Cjx0ZXh0IHg9IjYyIiB5PSI2MyIgZm9udC1zaXplPSIxMiIgZmlsbD0iI2VjZjJmYSIgY2xhc3M9Im1vbm8iPnByb2R1dG8gPSB7PC90ZXh0Pgo8dGV4dCB4PSIyOSIgeT0iODYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNjNWNmZGQiIGNsYXNzPSJtb25vIj5pbnRlcmZhY2U6PC90ZXh0Pjx0ZXh0IHg9IjEwNiIgeT0iODYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM3OWU2Y2UiIGNsYXNzPSJtb25vIj4nY2xhcmEnLDwvdGV4dD4KPHRleHQgeD0iMjkiIHk9IjEwOSIgZm9udC1zaXplPSIxMiIgZmlsbD0iI2M1Y2ZkZCIgY2xhc3M9Im1vbm8iPmVuZ2VuaGFyaWE6PC90ZXh0Pjx0ZXh0IHg9IjExMiIgeT0iMTA5IiBmb250LXNpemU9IjEyIiBmaWxsPSIjNzllNmNlIiBjbGFzcz0ibW9ubyI+J2NvbSBwcm9ww7NzaXRvJzwvdGV4dD4KPHRleHQgeD0iMTkiIHk9IjEzMiIgZm9udC1zaXplPSIxMiIgZmlsbD0iI2VjZjJmYSIgY2xhc3M9Im1vbm8iPn07PC90ZXh0PjxyZWN0IGNsYXNzPSJjdXJzb3IiIHg9IjM4IiB5PSIxMjEiIHdpZHRoPSI2IiBoZWlnaHQ9IjEzIiBmaWxsPSIjNzllNmNlIi8+Cgo8cmVjdCB4PSIxNC4wIiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiNkNGRlZWEiLz4KPHJlY3QgY2xhc3M9ImtleSIgeD0iMTQuMCIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjNzllNmNlIiBvcGFjaXR5PSIwIiBzdHlsZT0iYW5pbWF0aW9uLWRlbGF5OjAuMHMiLz4KPHJlY3QgeD0iMjUuMCIgeT0iMTQ4IiB3aWR0aD0iOSIgaGVpZ2h0PSIyMiIgcng9IjEuNSIgZmlsbD0iIzE0MjEzMCIvPgo8cmVjdCB4PSIzMS41IiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiNkNGRlZWEiLz4KPHJlY3QgeD0iNDIuNSIgeT0iMTQ4IiB3aWR0aD0iOSIgaGVpZ2h0PSIyMiIgcng9IjEuNSIgZmlsbD0iIzE0MjEzMCIvPgo8cmVjdCB4PSI0OS4wIiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiNkNGRlZWEiLz4KPHJlY3QgeD0iNjYuNSIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjxyZWN0IGNsYXNzPSJrZXkiIHg9IjY2LjUiIHk9IjE0OCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0iIzc5ZTZjZSIgb3BhY2l0eT0iMCIgc3R5bGU9ImFuaW1hdGlvbi1kZWxheTowLjYwMDAwMDAwMDAwMDAwMDFzIi8+CjxyZWN0IHg9Ijc3LjUiIHk9IjE0OCIgd2lkdGg9IjkiIGhlaWdodD0iMjIiIHJ4PSIxLjUiIGZpbGw9IiMxNDIxMzAiLz4KPHJlY3QgeD0iODQuMCIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjxyZWN0IHg9Ijk1LjAiIHk9IjE0OCIgd2lkdGg9IjkiIGhlaWdodD0iMjIiIHJ4PSIxLjUiIGZpbGw9IiMxNDIxMzAiLz4KPHJlY3QgeD0iMTAxLjUiIHk9IjE0OCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0iI2Q0ZGVlYSIvPgo8cmVjdCBjbGFzcz0ia2V5IiB4PSIxMDEuNSIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjNzllNmNlIiBvcGFjaXR5PSIwIiBzdHlsZT0iYW5pbWF0aW9uLWRlbGF5OjEuMHMiLz4KPHJlY3QgeD0iMTEyLjUiIHk9IjE0OCIgd2lkdGg9IjkiIGhlaWdodD0iMjIiIHJ4PSIxLjUiIGZpbGw9IiMxNDIxMzAiLz4KPHJlY3QgeD0iMTE5LjAiIHk9IjE0OCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0iI2Q0ZGVlYSIvPgo8cmVjdCB4PSIxMzYuNSIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjxyZWN0IGNsYXNzPSJrZXkiIHg9IjEzNi41IiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiM3OWU2Y2UiIG9wYWNpdHk9IjAiIHN0eWxlPSJhbmltYXRpb24tZGVsYXk6MS40MDAwMDAwMDAwMDAwMDAxcyIvPgo8cmVjdCB4PSIxNDcuNSIgeT0iMTQ4IiB3aWR0aD0iOSIgaGVpZ2h0PSIyMiIgcng9IjEuNSIgZmlsbD0iIzE0MjEzMCIvPgo8cmVjdCB4PSIxNTQuMCIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjxyZWN0IHg9IjE2NS4wIiB5PSIxNDgiIHdpZHRoPSI5IiBoZWlnaHQ9IjIyIiByeD0iMS41IiBmaWxsPSIjMTQyMTMwIi8+CjxyZWN0IHg9IjE3MS41IiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiNkNGRlZWEiLz4KPHJlY3QgeD0iMTg5LjAiIHk9IjE0OCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0iI2Q0ZGVlYSIvPgo8cmVjdCBjbGFzcz0ia2V5IiB4PSIxODkuMCIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjNzllNmNlIiBvcGFjaXR5PSIwIiBzdHlsZT0iYW5pbWF0aW9uLWRlbGF5OjIuMHMiLz4KPHJlY3QgeD0iMjAwLjAiIHk9IjE0OCIgd2lkdGg9IjkiIGhlaWdodD0iMjIiIHJ4PSIxLjUiIGZpbGw9IiMxNDIxMzAiLz4KPHJlY3QgeD0iMjA2LjUiIHk9IjE0OCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjM1IiByeD0iMiIgZmlsbD0iI2Q0ZGVlYSIvPgo8cmVjdCB4PSIyMTcuNSIgeT0iMTQ4IiB3aWR0aD0iOSIgaGVpZ2h0PSIyMiIgcng9IjEuNSIgZmlsbD0iIzE0MjEzMCIvPgo8cmVjdCB4PSIyMjQuMCIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjxyZWN0IGNsYXNzPSJrZXkiIHg9IjIyNC4wIiB5PSIxNDgiIHdpZHRoPSIxNiIgaGVpZ2h0PSIzNSIgcng9IjIiIGZpbGw9IiM3OWU2Y2UiIG9wYWNpdHk9IjAiIHN0eWxlPSJhbmltYXRpb24tZGVsYXk6Mi40MDAwMDAwMDAwMDAwMDA0cyIvPgo8cmVjdCB4PSIyMzUuMCIgeT0iMTQ4IiB3aWR0aD0iOSIgaGVpZ2h0PSIyMiIgcng9IjEuNSIgZmlsbD0iIzE0MjEzMCIvPgo8cmVjdCB4PSIyNDEuNSIgeT0iMTQ4IiB3aWR0aD0iMTYiIGhlaWdodD0iMzUiIHJ4PSIyIiBmaWxsPSIjZDRkZWVhIi8+CjwvZz48dGV4dCB4PSI5NTgiIHk9IjI5MSIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1zaXplPSIxMCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iIzkyYTFiNyIgY2xhc3M9Im1vbm8iPkRPIEPDk0RJR08gQU8gVEVDTEFETy48L3RleHQ+PC9zdmc+" width="100%" alt="André Albson — desenvolvimento full stack. Código, produto e criatividade na mesma composição." />
 </p>
 
-<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
+<h1 align="center">André Albson</h1>
 
-<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🏗️ Featured Projects</h2>
+<p align="center">
+  <strong>Desenvolvedor Full Stack Sênior · Interfaces, integrações e IA aplicada</strong><br />
+  Belo Jardim, Pernambuco · Mais de 10 anos construindo para a web
+</p>
 
-<table align="center" style="width: 100%; border-spacing: 15px; border-collapse: separate;">
-  <tr>
-    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
-      <h3 style="color: #4285f4;">📡 LiveDesk (TIM)</h3>
-      <p style="color: #bdc1c6;"><strong>High-Performance Ticket Management</strong></p>
-      <p style="color: #9aa0a6; font-size: 0.9em;">A mission-critical system for TIM, handling massive volumes of support tickets. Focused on UX optimization and real-time data processing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
-      <h3 style="color: #34a853;">🚴 Bike-MV</h3>
-      <p style="color: #bdc1c6;"><strong>Mobile-First Cycling App</strong></p>
-      <p style="color: #9aa0a6; font-size: 0.9em;">An interactive web & mobile application for the cycling community. Built with a "Mobile First" approach ensuring seamless experience.</p>
-      <p>
-         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
-      <h3 style="color: #fbbc05;">🛒 White-Label E-commerce</h3>
-      <p style="color: #bdc1c6;"><strong>Scalable Multi-Tenant Platform</strong></p>
-      <p style="color: #9aa0a6; font-size: 0.9em;">Architected customizable templates for a white-label e-commerce solution, allowing rapid deployment of unique stores.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%" style="background-color: #2d2e31; border: 1px solid #3c4043; border-radius: 8px; padding: 20px;">
-      <h3 style="color: #ea4335;">🤖 Konecty Automations</h3>
-      <p style="color: #bdc1c6;"><strong>AI & Metadata Governance</strong></p>
-      <p style="color: #9aa0a6; font-size: 0.9em;">Developed Python scripts and Shell automations for Docker. Implemented "Memory Bank" documentation using AI tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrealbson/">LinkedIn</a> ·
+  <a href="mailto:albsondev@outlook.com">Vamos conversar</a> ·
+  <a href="https://codepen.io/albsonxavier">CodePen</a> ·
+  <a href="https://github.com/albsondev?tab=repositories">Repositórios</a>
+</p>
 
-<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
+<p align="center">
+  <a href="#sobre">Sobre</a> · <a href="#projetos">Projetos</a> ·
+  <a href="#experiencia">Experiência</a> · <a href="#stack">Stack</a> ·
+  <a href="#github">GitHub em números</a>
+</p>
 
-<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🧠 Philosophy & Methodologies</h2>
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Code_Quality-Clean_Code-success?style=for-the-badge&logo=codefactor" />
-  <img src="https://img.shields.io/badge/Testing-TDD_&_Jest-critical?style=for-the-badge&logo=jest" />
-  <img src="https://img.shields.io/badge/Process-Agile_&_Scrum-blue?style=for-the-badge&logo=scrumalliance" />
-  <img src="https://img.shields.io/badge/Docs-Memory_Bank_(AI)-yellow?style=for-the-badge&logo=markdown" />
-</div>
-
-<h3 style="color: #ffffff;">🛡️ Soft Skills Matrix</h3>
-<table style="width: 100%; color: #e8eaed; border: 1px solid #3c4043; background-color: #2d2e31; border-radius: 8px;">
-<tr style="border-bottom: 1px solid #3c4043;">
-<th align="left" style="padding: 10px;">Skill</th>
-<th align="left" style="padding: 10px;">Status</th>
-<th align="left" style="padding: 10px;">Focus Area</th>
+<hr>
+<p><a id="sobre"></a></p>
+<h2>O cuidado com a interface. A visão do sistema inteiro.</h2>
+<p>Sou um desenvolvedor com base forte em <strong>front-end</strong> e atuação de ponta a ponta: da experiência de quem usa à API, aos dados e às integrações que sustentam o produto.</p>
+<p>Minha trajetória passa por <strong>e-commerce white-label, plataformas de atendimento, dashboards e automações</strong>. Gosto de entender a regra de negócio, dar clareza aos fluxos e construir componentes que possam evoluir com o projeto.</p>
+<p>Hoje também exploro <strong>IA aplicada à engenharia de software</strong>, usando ferramentas como Cursor e ChatGPT para apoiar investigação, implementação e documentação, com revisão técnica das entregas.</p>
+<table>
+<thead>
+<tr>
+<th align="left">Onde posso contribuir</th>
+<th align="left">O que levo para o projeto</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Interfaces e experiência</strong></td>
+<td align="left">React, Next.js e Vue; componentes reutilizáveis, responsividade e atenção aos detalhes de interação.</td>
 </tr>
 <tr>
-<td style="padding: 10px;"><strong>Technical Leadership</strong></td>
-<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
-<td style="padding: 10px; font-size: 0.9em;">Mentoring, Code Reviews, Decision Making</td>
+<td align="left"><strong>Aplicações e integrações</strong></td>
+<td align="left">APIs, autenticação, regras de negócio e conexão entre serviços, do front-end ao banco de dados.</td>
 </tr>
 <tr>
-<td style="padding: 10px;"><strong>Communication</strong></td>
-<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩⬜</td>
-<td style="padding: 10px; font-size: 0.9em;">Translating Tech to Business, Stakeholders</td>
+<td align="left"><strong>Arquitetura e evolução</strong></td>
+<td align="left">Micro frontends, organização modular e manutenção de sistemas existentes.</td>
 </tr>
 <tr>
-<td style="padding: 10px;"><strong>Adaptability</strong></td>
-<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
-<td style="padding: 10px; font-size: 0.9em;">Rapid stack switching (AI, Python, Node)</td>
+<td align="left"><strong>Automação e produtividade</strong></td>
+<td align="left">Scripts, ferramentas de IA e documentação para apoiar o trabalho da equipe.</td>
+</tr>
+</tbody></table>
+<p><a id="projetos"></a></p>
+<h2>Código que você pode explorar</h2>
+<p>Uma seleção de projetos e desafios técnicos públicos que mostram diferentes partes do meu trabalho.</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 · B2Blue — controle de armazenamento</h3>
+<p><strong>Uma regra operacional transformada em uma interface clara.</strong></p>
+<p>Desafio técnico com três estações de armazenamento: ao atingir <strong>80% de ocupação</strong>, o sistema simula a geração de um pedido de coleta. O fluxo inclui confirmação, redefinição de volume e feedback visual.</p>
+<p><strong>Em foco:</strong> regras de negócio, estados de interface e visualização de dados simulados.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Material UI</code></p>
+<p><a href="https://github.com/albsondev/b2blue-storage-volume-control-system">Explorar o código →</a></p>
+</td>
+<td width="50%" valign="top">
+
+<h3>02 · WeMovies — jornada de compra</h3>
+<p><strong>Do catálogo à confirmação, com atenção à interação.</strong></p>
+<p>Desafio de e-commerce de filmes com catálogo, carrinho, ajuste de quantidades e fluxo de checkout demonstrativo. Inclui interface responsiva e animação ao adicionar produtos ao carrinho.</p>
+<p><strong>Em foco:</strong> estado global, componentes e continuidade da experiência de compra.</p>
+<p><code>Next.js</code> <code>React</code> <code>Redux</code> <code>Tailwind CSS</code></p>
+<p><a href="https://github.com/albsondev/challenge-wemovies">Explorar o código →</a></p>
+</td>
 </tr>
 <tr>
-<td style="padding: 10px;"><strong>Problem Solving</strong></td>
-<td style="padding: 10px; color: #34a853;">🟩🟩🟩🟩🟩</td>
-<td style="padding: 10px; font-size: 0.9em;">Root Cause Analysis, Scalability</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
+<h3>03 · Gestão de clientes — micro frontends</h3>
+<p><strong>Três ecossistemas compondo uma aplicação.</strong></p>
+<p>Desafio técnico de cadastro, edição, exclusão e seleção de clientes, estruturado com micro frontends em <strong>Angular, Vue e React</strong>.</p>
+<p><strong>Em foco:</strong> composição de interfaces, organização modular e integração entre frameworks.</p>
+<p><code>Angular</code> <code>Vue</code> <code>React</code> <code>TypeScript</code></p>
+<p><a href="https://github.com/albsondev/teste-frontend-teddy-open-finance">Explorar o código →</a></p>
+</td>
+<td width="50%" valign="top">
 
-<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🛠️ Hard Skills Radar</h2>
-
-<div align="center">
-<p style="color: #bdc1c6; font-weight: bold;">AI & Engineering</p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-EA4335?style=flat-square&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white" />
-
-<p style="color: #bdc1c6; font-weight: bold; margin-top: 15px;">Frontend Ecosystem</p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-<p style="color: #bdc1c6; font-weight: bold; margin-top: 15px;">Backend & Infra</p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</div>
-
-<hr style="border: 0; border-top: 1px solid #3c4043; margin: 30px 0;">
-
-<h2 style="color: #ffffff; border-bottom: 1px solid #3c4043; padding-bottom: 10px;">🚀 Experience Timeline</h2>
-
-<details style="color: #e8eaed;">
-<summary style="cursor: pointer; font-weight: bold; color: #4285f4; margin-bottom: 15px;">View Detailed Career Journey</summary>
-<div style="border-left: 2px solid #4285f4; padding-left: 20px; margin-top: 10px;">
-
-<h3 style="color: #ffffff;">Konecty <small style="color: #9aa0a6;">(Full Stack / AI Engineer)</small></h3>
-<p style="color: #bdc1c6; font-size: 0.9em;"><em>Mai 2025 - Dez 2025 | Remote</em></p>
-<ul style="color: #9aa0a6;">
-<li>Integrated LLMs into development workflow, boosting efficiency by 40%.</li>
-<li>Managed high-availability Docker architectures and automated pipelines.</li>
-<li>Architected scalable business entities via JSON Metadata Governance.</li>
-</ul>
-
-<h3 style="color: #ffffff;">Connexa API <small style="color: #9aa0a6;">(Senior Front-End)</small></h3>
-<p style="color: #bdc1c6; font-size: 0.9em;"><em>Out 2024 - Mar 2025 | Remote</em></p>
-<ul style="color: #9aa0a6;">
-<li>Optimized critical Next.js dashboards for high-concurrency usage.</li>
-<li>Implemented real-time bidirectional data via WebSockets.</li>
-<li>Led the adoption of TDD, reaching 90%+ unit test coverage.</li>
-</ul>
-
-<h3 style="color: #ffffff;">PRECODE <small style="color: #9aa0a6;">(Front-End Developer)</small></h3>
-<p style="color: #bdc1c6; font-size: 0.9em;"><em>Mai 2022 - Jan 2024 | Maringá</em></p>
-<ul style="color: #9aa0a6;">
-<li>Engineered white-label frontend systems for multi-tenant e-commerce.</li>
-<li>Revitalized UX for TIM's LiveDesk ticket management platform.</li>
-</ul>
-
-</div>
-</details>
-
+<h3>04 · FixFlow — controle de manutenções</h3>
+<p><strong>Uma visão do produto em duas camadas.</strong></p>
+<p>Projeto de controle de manutenções com repositórios separados para front-end e back-end, permitindo explorar a organização de cada lado da aplicação.</p>
+<p><strong>Em foco:</strong> desenvolvimento full stack e separação de responsabilidades.</p>
+<p><code>TypeScript</code> <code>Python</code></p>
+<p><a href="https://github.com/albsondev/FixFlow-FrontEnd">Front-end →</a> · <a href="https://github.com/albsondev/FixFlow-BackEnd">Back-end →</a></p>
 </td>
 </tr>
 </table>
 
-<br>
+<p><strong>Outras explorações:</strong> <a href="https://github.com/albsondev/agenda-app">agendamento full stack</a> · <a href="https://github.com/albsondev/desafio-aiko-operacao-florestal">operação florestal com Vue</a> · <a href="https://github.com/albsondev/body-detection">detecção corporal com Python</a>.</p>
+<p><a id="experiencia"></a></p>
+<h2>Experiência aplicada a produtos</h2>
+<p>Além dos repositórios públicos, participei de produtos e operações com necessidades distintas:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Contexto</th>
+<th align="left">Minha contribuição</th>
+<th align="left">Entrega</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>E-commerce white-label · PRECODE</strong></td>
+<td align="left">Desenvolvimento de interfaces e templates personalizáveis com Next.js e TypeScript.</td>
+<td align="left">Uma base de interface adaptável à identidade e às necessidades de diferentes lojas.</td>
+</tr>
+<tr>
+<td align="left"><strong>LiveDesk · projeto para TIM</strong></td>
+<td align="left">Trabalho na experiência de uso de uma plataforma de gestão de chamados com React e Redux.</td>
+<td align="left">Interfaces voltadas à operação de atendimento e à organização dos chamados.</td>
+</tr>
+<tr>
+<td align="left"><strong>Konecty · automação e organização técnica</strong></td>
+<td align="left">Scripts em Python e Shell, rotinas com Docker e documentação assistida por IA.</td>
+<td align="left">Automação de tarefas e estruturação de contexto técnico para o desenvolvimento.</td>
+</tr>
+<tr>
+<td align="left"><strong>Bike-MV · web e mobile</strong></td>
+<td align="left">Desenvolvimento com Vue e abordagem PWA, priorizando a experiência em dispositivos móveis.</td>
+<td align="left">Uma aplicação para a comunidade de ciclismo com foco mobile first.</td>
+</tr>
+</tbody></table>
+<details>
+<summary><strong>Mais sobre minha trajetória</strong></summary>
 
-<div align="center">
-  <h2 style="color: #5f6368;">🏆 Technical Milestones</h2>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-4285f4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Full_Stack-Expert-34a853?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/AI_Engineering-Specialist-ea4335?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Clean_Code-Evangelist-fbbc05?style=for-the-badge&logo=lighthouse" />
-</div>
+<ul>
+<li><strong>Konecty:</strong> desenvolvimento full stack, automações e organização de entidades de negócio por metadados.</li>
+<li><strong>Connexa API:</strong> desenvolvimento front-end com Next.js e integração de dados em tempo real via WebSockets.</li>
+<li><strong>PRECODE:</strong> interfaces de e-commerce white-label e experiência de uso em sistemas de atendimento.</li>
+<li><strong>Formação:</strong> Técnico em Informática pelo IFPE e formação em Análise e Desenvolvimento de Sistemas pela FAFICA.</li>
+</ul>
+<p><a href="https://www.linkedin.com/in/andrealbson/">Conheça meu perfil profissional no LinkedIn →</a></p>
+</details>
 
-<br/>
+<p><a id="stack"></a></p>
+<h2>Minha caixa de ferramentas</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Área</th>
+<th align="left">Tecnologias e práticas</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Linguagens</strong></td>
+<td align="left">JavaScript · TypeScript · PHP · Python</td>
+</tr>
+<tr>
+<td align="left"><strong>Front-end</strong></td>
+<td align="left">React · Next.js · Vue · Angular · HTML · CSS</td>
+</tr>
+<tr>
+<td align="left"><strong>UI e componentes</strong></td>
+<td align="left">Tailwind CSS · Storybook · Bootstrap · Material UI</td>
+</tr>
+<tr>
+<td align="left"><strong>Back-end e integração</strong></td>
+<td align="left">Node.js · APIs REST · GraphQL · WebSockets</td>
+</tr>
+<tr>
+<td align="left"><strong>Dados e ambiente</strong></td>
+<td align="left">PostgreSQL · MySQL · MongoDB · Docker · Git</td>
+</tr>
+<tr>
+<td align="left"><strong>Qualidade</strong></td>
+<td align="left">Jest · Cypress · revisão de código · documentação técnica</td>
+</tr>
+<tr>
+<td align="left"><strong>Arquitetura</strong></td>
+<td align="left">Micro frontends · Module Federation · monorepos · DDD</td>
+</tr>
+<tr>
+<td align="left"><strong>IA no desenvolvimento</strong></td>
+<td align="left">Cursor · ChatGPT · engenharia de prompts · documentação de contexto</td>
+</tr>
+</tbody></table>
+<details>
+<summary><strong>Como gosto de trabalhar</strong></summary>
 
-<div align="center">
-  <h2 style="color: #5f6368;">🎖️ GitHub Official Medals</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=albsondev&repo=meu-git&theme=tokyonight&bg_color=202124&hide_border=true&title_color=4285f4" height="120px" />
-  <br>
-  <img src="https://img.shields.io/badge/Open_Source-Shark-4285f4?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quickdraw-Achieved-34a853?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-Badge-ea4335?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Galaxy_Brain-Confirmed-fbbc05?style=flat&logo=github&logoColor=white" />
-</div>
+<ol>
+<li><strong>Entender o problema.</strong> Alinhar o fluxo, as regras e o que caracteriza uma entrega bem-feita.</li>
+<li><strong>Organizar a solução.</strong> Definir responsabilidades, contratos e componentes com espaço para evolução.</li>
+<li><strong>Construir com atenção ao uso.</strong> Considerar carregamento, erros, estados vazios e diferentes tamanhos de tela.</li>
+<li><strong>Verificar e explicar.</strong> Revisar, testar os fluxos relevantes e deixar contexto para quem continuar o trabalho.</li>
+</ol>
+</details>
 
-<br/>
+<p><a id="github"></a></p>
+<h2>Meu código também tem ritmo</h2>
+<p>Fora do desenvolvimento, sou <strong>tecladista</strong>. Trouxe um pouco dessa identidade para o perfil: o painel abaixo transforma a distribuição dos meus repositórios em um equalizador visual.</p>
+<p>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjUxMCIgdmlld0JveD0iMCAwIDEwMDAgNTEwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+Cjx0aXRsZSBpZD0idGl0bGUiPkdpdEh1YiBlbSByaXRtbyDigJQgQW5kcsOpIEFsYnNvbjwvdGl0bGU+CjxkZXNjIGlkPSJkZXNjIj5Fc3RhdMOtc3RpY2FzIHDDumJsaWNhcy4gQmFycmFzIHJlcHJlc2VudGFtIHF1YW50aWRhZGVzIGRlIHJlcG9zaXTDs3Jpb3Mgc2VtIGZvcmsgcG9yIGxpbmd1YWdlbSBwcmluY2lwYWwuIEEgbHV6IG3Ds3ZlbCDDqSBkZWNvcmF0aXZhLjwvZGVzYz4KPGRlZnM+PHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PGNpcmNsZSBjeD0iMSIgY3k9IjEiIHI9IjAuNyIgZmlsbD0iIzI1MzI0NyIvPjwvcGF0dGVybj48L2RlZnM+CjxzdHlsZT50ZXh0e2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmfS5tb25ve2ZvbnQtZmFtaWx5Om1vbm9zcGFjZX0uc2NhbnthbmltYXRpb246c2NhbiA5cyBsaW5lYXIgaW5maW5pdGV9QGtleWZyYW1lcyBzY2Fue2Zyb217dHJhbnNmb3JtOnRyYW5zbGF0ZVgoMCl9dG97dHJhbnNmb3JtOnRyYW5zbGF0ZVgoODY2cHgpfX1AbWVkaWEocHJlZmVycy1yZWR1Y2VkLW1vdGlvbjpyZWR1Y2Upey5zY2Fue2FuaW1hdGlvbjpub25lO2Rpc3BsYXk6bm9uZX19PC9zdHlsZT4KPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9Ijk5OCIgaGVpZ2h0PSI1MDgiIHJ4PSIyMCIgZmlsbD0iIzEwMTkyMyIgc3Ryb2tlPSIjMmEzOTRiIi8+CjxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI0NzAiIGZpbGw9InVybCgjZ3JpZCkiIG9wYWNpdHk9IjAuNDUiLz4KPHRleHQgeD0iMzgiIHk9IjQwIiBmb250LXNpemU9IjEyIiBmaWxsPSIjNzllNmNlIiBsZXR0ZXItc3BhY2luZz0iMiIgY2xhc3M9Im1vbm8iPjAyIC8gQ8OTRElHTyBFTSBSSVRNTzwvdGV4dD4KPHRleHQgeD0iOTYyIiB5PSI0MCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzkyYTFiNyIgdGV4dC1hbmNob3I9ImVuZCIgbGV0dGVyLXNwYWNpbmc9IjIiPkRBRE9TIFDDmkJMSUNPUzwvdGV4dD4KPHRleHQgeD0iMzgiIHk9IjEwNyIgZm9udC1zaXplPSI0NCIgZmlsbD0iI2VjZjJmYSIgZm9udC13ZWlnaHQ9IjcwMCI+NjU8L3RleHQ+Cjx0ZXh0IHg9IjM4IiB5PSIxMzQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5MmExYjciIGxldHRlci1zcGFjaW5nPSIxLjMiPlJFUE9TSVTDk1JJT1M8L3RleHQ+Cjx0ZXh0IHg9IjI4MyIgeT0iMTA3IiBmb250LXNpemU9IjQ0IiBmaWxsPSIjZWNmMmZhIiBmb250LXdlaWdodD0iNzAwIj40MDwvdGV4dD4KPHRleHQgeD0iMjgzIiB5PSIxMzQiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM5MmExYjciIGxldHRlci1zcGFjaW5nPSIxLjMiPlNFTSBGT1JLPC90ZXh0Pgo8dGV4dCB4PSI1MjgiIHk9IjEwNyIgZm9udC1zaXplPSI0NCIgZmlsbD0iI2VjZjJmYSIgZm9udC13ZWlnaHQ9IjcwMCI+MjU8L3RleHQ+Cjx0ZXh0IHg9IjUyOCIgeT0iMTM0IiBmb250LXNpemU9IjExIiBmaWxsPSIjOTJhMWI3IiBsZXR0ZXItc3BhY2luZz0iMS4zIj5GT1JLUzwvdGV4dD4KPHRleHQgeD0iNzczIiB5PSIxMDciIGZvbnQtc2l6ZT0iNDQiIGZpbGw9IiNlY2YyZmEiIGZvbnQtd2VpZ2h0PSI3MDAiPjEzPC90ZXh0Pgo8dGV4dCB4PSI3NzMiIHk9IjEzNCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzkyYTFiNyIgbGV0dGVyLXNwYWNpbmc9IjEuMyI+RVNUUkVMQVMgwrcgU0VNIEZPUks8L3RleHQ+CjxwYXRoIGQ9Ik0zOCAxNjBIOTYyIiBzdHJva2U9IiMyYTM5NGIiLz4KPHRleHQgeD0iMzgiIHk9IjE5MCIgZm9udC1zaXplPSIyMSIgZmlsbD0iI2VjZjJmYSIgZm9udC13ZWlnaHQ9IjcwMCI+Q2FkYSBsaW5ndWFnZW0sIHVtYSB2b3ouPC90ZXh0Pgo8dGV4dCB4PSIzOCIgeT0iMjE1IiBmb250LXNpemU9IjE0IiBmaWxsPSIjOTJhMWI3IiA+UmVwb3NpdMOzcmlvcyBzZW0gZm9yaywgYWdydXBhZG9zIHBlbGEgbGluZ3VhZ2VtIHByaW5jaXBhbC48L3RleHQ+CjxyZWN0IHg9IjcyIiB5PSIyNDUiIHdpZHRoPSI0MiIgaGVpZ2h0PSIxNTAiIHJ4PSI1IiBmaWxsPSIjMWEyODM3Ii8+CjxyZWN0IHg9IjcyIiB5PSIyNTUuMDAiIHdpZHRoPSI0MiIgaGVpZ2h0PSIxNDAuMDAiIHJ4PSI1IiBmaWxsPSIjNzllNmNlIi8+CjxwYXRoIGQ9Ik03MiAyNTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyNTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyNjdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyNzVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyODNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyOTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAyOTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzMDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzMTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzMjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzMzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzMzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzNDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzNTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzNjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzNzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzNzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03MiAzODdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjx0ZXh0IHg9IjkzIiB5PSIyMzgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM3OWU2Y2UiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI3MDAiPjE3PC90ZXh0Pgo8dGV4dCB4PSI5MyIgeT0iNDIyIiBmb250LXNpemU9IjEzIiBmaWxsPSIjYzVjZmRkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5UeXBlU2NyaXB0PC90ZXh0Pgo8cmVjdCB4PSIxODgiIHk9IjI0NSIgd2lkdGg9IjQyIiBoZWlnaHQ9IjE1MCIgcng9IjUiIGZpbGw9IiMxYTI4MzciLz4KPHJlY3QgeD0iMTg4IiB5PSIzNjIuMDYiIHdpZHRoPSI0MiIgaGVpZ2h0PSIzMi45NCIgcng9IjUiIGZpbGw9IiM5ZGFlZmYiLz4KPHBhdGggZD0iTTE4OCAyNTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMjU5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDI2N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTE4OCAyNzVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMjgzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDI5MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTE4OCAyOTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMzA3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDMxNWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTE4OCAzMjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMzMxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDMzOWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTE4OCAzNDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMzU1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDM2M2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTE4OCAzNzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xODggMzc5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTg4IDM4N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMjA5IiB5PSIyMzgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM5ZGFlZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI3MDAiPjQ8L3RleHQ+Cjx0ZXh0IHg9IjIwOSIgeT0iNDIyIiBmb250LXNpemU9IjEzIiBmaWxsPSIjYzVjZmRkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5KYXZhU2NyaXB0PC90ZXh0Pgo8cmVjdCB4PSIzMDQiIHk9IjI0NSIgd2lkdGg9IjQyIiBoZWlnaHQ9IjE1MCIgcng9IjUiIGZpbGw9IiMxYTI4MzciLz4KPHJlY3QgeD0iMzA0IiB5PSIzNjIuMDYiIHdpZHRoPSI0MiIgaGVpZ2h0PSIzMi45NCIgcng9IjUiIGZpbGw9IiNjMGE0ZmYiLz4KPHBhdGggZD0iTTMwNCAyNTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMjU5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDI2N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTMwNCAyNzVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMjgzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDI5MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTMwNCAyOTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMzA3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDMxNWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTMwNCAzMjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMzMxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDMzOWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTMwNCAzNDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMzU1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDM2M2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTMwNCAzNzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0zMDQgMzc5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMzA0IDM4N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMzI1IiB5PSIyMzgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiNjMGE0ZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI3MDAiPjQ8L3RleHQ+Cjx0ZXh0IHg9IjMyNSIgeT0iNDIyIiBmb250LXNpemU9IjEzIiBmaWxsPSIjYzVjZmRkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5WdWU8L3RleHQ+CjxyZWN0IHg9IjQyMCIgeT0iMjQ1IiB3aWR0aD0iNDIiIGhlaWdodD0iMTUwIiByeD0iNSIgZmlsbD0iIzFhMjgzNyIvPgo8cmVjdCB4PSI0MjAiIHk9IjM3MC4yOSIgd2lkdGg9IjQyIiBoZWlnaHQ9IjI0LjcxIiByeD0iNSIgZmlsbD0iI2YyY2Q4OCIvPgo8cGF0aCBkPSJNNDIwIDI1MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAyNTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMjY3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNDIwIDI3NWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAyODNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMjkxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNDIwIDI5OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAzMDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMzE1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNDIwIDMyM2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAzMzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMzM5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNDIwIDM0N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAzNTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMzYzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNDIwIDM3MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQyMCAzNzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00MjAgMzg3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSI0NDEiIHk9IjIzOCIgZm9udC1zaXplPSIxNiIgZmlsbD0iI2YyY2Q4OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjcwMCI+MzwvdGV4dD4KPHRleHQgeD0iNDQxIiB5PSI0MjIiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNjNWNmZGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlB5dGhvbjwvdGV4dD4KPHJlY3QgeD0iNTM2IiB5PSIyNDUiIHdpZHRoPSI0MiIgaGVpZ2h0PSIxNTAiIHJ4PSI1IiBmaWxsPSIjMWEyODM3Ii8+CjxyZWN0IHg9IjUzNiIgeT0iMzc4LjUzIiB3aWR0aD0iNDIiIGhlaWdodD0iMTYuNDciIHJ4PSI1IiBmaWxsPSIjZjM5ZmE5Ii8+CjxwYXRoIGQ9Ik01MzYgMjUxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDI1OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAyNjdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik01MzYgMjc1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDI4M2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAyOTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik01MzYgMjk5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDMwN2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAzMTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik01MzYgMzIzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDMzMWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAzMzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik01MzYgMzQ3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDM1NWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAzNjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik01MzYgMzcxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNTM2IDM3OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTUzNiAzODdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjx0ZXh0IHg9IjU1NyIgeT0iMjM4IiBmb250LXNpemU9IjE2IiBmaWxsPSIjZjM5ZmE5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNzAwIj4yPC90ZXh0Pgo8dGV4dCB4PSI1NTciIHk9IjQyMiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2M1Y2ZkZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SFRNTDwvdGV4dD4KPHJlY3QgeD0iNjUyIiB5PSIyNDUiIHdpZHRoPSI0MiIgaGVpZ2h0PSIxNTAiIHJ4PSI1IiBmaWxsPSIjMWEyODM3Ii8+CjxyZWN0IHg9IjY1MiIgeT0iMzc4LjUzIiB3aWR0aD0iNDIiIGhlaWdodD0iMTYuNDciIHJ4PSI1IiBmaWxsPSIjODdjZGYwIi8+CjxwYXRoIGQ9Ik02NTIgMjUxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDI1OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAyNjdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik02NTIgMjc1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDI4M2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAyOTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik02NTIgMjk5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDMwN2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAzMTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik02NTIgMzIzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDMzMWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAzMzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik02NTIgMzQ3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDM1NWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAzNjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik02NTIgMzcxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNjUyIDM3OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTY1MiAzODdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjx0ZXh0IHg9IjY3MyIgeT0iMjM4IiBmb250LXNpemU9IjE2IiBmaWxsPSIjODdjZGYwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNzAwIj4yPC90ZXh0Pgo8dGV4dCB4PSI2NzMiIHk9IjQyMiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2M1Y2ZkZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+S290bGluPC90ZXh0Pgo8cmVjdCB4PSI3NjgiIHk9IjI0NSIgd2lkdGg9IjQyIiBoZWlnaHQ9IjE1MCIgcng9IjUiIGZpbGw9IiMxYTI4MzciLz4KPHJlY3QgeD0iNzY4IiB5PSIzODYuNzYiIHdpZHRoPSI0MiIgaGVpZ2h0PSI4LjI0IiByeD0iNSIgZmlsbD0iI2E4ZDg5ZCIvPgo8cGF0aCBkPSJNNzY4IDI1MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAyNTloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMjY3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNzY4IDI3NWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAyODNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMjkxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNzY4IDI5OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAzMDdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMzE1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNzY4IDMyM2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAzMzFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMzM5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNzY4IDM0N2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAzNTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMzYzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNNzY4IDM3MWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTc2OCAzNzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik03NjggMzg3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSI3ODkiIHk9IjIzOCIgZm9udC1zaXplPSIxNiIgZmlsbD0iI2E4ZDg5ZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjcwMCI+MTwvdGV4dD4KPHRleHQgeD0iNzg5IiB5PSI0MjIiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiNjNWNmZGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkphdmE8L3RleHQ+CjxyZWN0IHg9Ijg4NCIgeT0iMjQ1IiB3aWR0aD0iNDIiIGhlaWdodD0iMTUwIiByeD0iNSIgZmlsbD0iIzFhMjgzNyIvPgo8cmVjdCB4PSI4ODQiIHk9IjM4Ni43NiIgd2lkdGg9IjQyIiBoZWlnaHQ9IjguMjQiIHJ4PSI1IiBmaWxsPSIjZDRiZGRmIi8+CjxwYXRoIGQ9Ik04ODQgMjUxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDI1OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAyNjdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04ODQgMjc1aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDI4M2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAyOTFoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04ODQgMjk5aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDMwN2g0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAzMTVoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04ODQgMzIzaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDMzMWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAzMzloNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04ODQgMzQ3aDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDM1NWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAzNjNoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik04ODQgMzcxaDQyIiBzdHJva2U9IiMxMDE5MjMiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNODg0IDM3OWg0MiIgc3Ryb2tlPSIjMTAxOTIzIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTg4NCAzODdoNDIiIHN0cm9rZT0iIzEwMTkyMyIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjx0ZXh0IHg9IjkwNSIgeT0iMjM4IiBmb250LXNpemU9IjE2IiBmaWxsPSIjZDRiZGRmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iNzAwIj4xPC90ZXh0Pgo8dGV4dCB4PSI5MDUiIHk9IjQyMiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2M1Y2ZkZCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UEhQPC90ZXh0Pgo8cmVjdCBjbGFzcz0ic2NhbiIgeD0iNDgiIHk9IjI0NSIgd2lkdGg9IjIiIGhlaWdodD0iMTUwIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjE1Ii8+CjxwYXRoIGQ9Ik0zOCA0NDVIOTYyIiBzdHJva2U9IiMyYTM5NGIiLz4KPHRleHQgeD0iMzgiIHk9IjQ3NSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzc5ZTZjZSIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgY2xhc3M9Im1vbm8iPkRBRE9TIFJFQUlTLiBVTUEgQVNTSU5BVFVSQSBQRVNTT0FMLjwvdGV4dD4KPHRleHQgeD0iOTYyIiB5PSI0NzUiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM5MmExYjciIHRleHQtYW5jaG9yPSJlbmQiPkNvbnN1bHRhOiAxMS8wOS8yMDI2IMK3IFVUQzwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="Painel de estatísticas públicas e gráfico das linguagens principais dos repositórios sem fork de albsondev. Os números também estão disponíveis no texto abaixo." />
+</p>
 
-<div align="center">
-  <h2 style="color: #5f6368;">📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285f4&text_color=bdc1c6&icon_color=34a853&bg_color=202124&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=tokyonight&hide_border=true&title_color=ea4335&text_color=bdc1c6&bg_color=202124&langs_count=8" height="180px"/>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=albsondev&theme=tokyonight&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=bdc1c6&dates=bdc1c6&stroke=00000000&background=202124" width="100%"/>
-</div>
+<!-- METRICS:START -->
+<p><strong>65 repositórios públicos · 40 sem fork · 25 forks · 13 estrelas nos repositórios sem fork.</strong></p>
+<p>Linguagem principal dos repositórios sem fork: <strong>TypeScript 17 · JavaScript 4 · Vue 4 · Python 3 · HTML 2 · Kotlin 2 · Java 1 · PHP 1</strong>. Outros <strong>6</strong> não têm linguagem principal identificada pelo GitHub.</p>
+<p><sub>Dados públicos consultados em 11/09/2026 (UTC). Cada repositório conta uma vez, pela linguagem principal informada pelo GitHub. Esses números não representam tempo de experiência nem nível de domínio.</sub></p>
+<!-- METRICS:END -->
 
-<br>
-
-<div align="center">
-  <h2 style="color: #5f6368;">🏆 GitHub Trophies</h2>
-  <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
-</div>
-
-<br/>
-
-<div align="center" style="font-size: 12px; color: #5f6368;">
-  Last updated automatically via <a href="https://github.com/albsondev" style="color: #4285f4; text-decoration: none;">GitHub Actions</a> & IA
-</div>
+<hr>
+<h2>Vamos construir algo que faça sentido?</h2>
+<p>Tenho interesse em <strong>desenvolvimento full stack, front-end, evolução de produtos e integrações</strong>, em equipes ou projetos freelance.</p>
+<p>Se você tem um produto para construir, uma interface para melhorar ou sistemas que precisam conversar, podemos começar pelo problema.</p>
+<p><strong><a href="https://www.linkedin.com/in/andrealbson/">Converse comigo no LinkedIn →</a></strong><br><strong><a href="mailto:albsondev@outlook.com">albsondev@outlook.com</a></strong></p>
+<p align="center"><sub>De Pernambuco para a web. Com atenção ao detalhe — no código e no teclado.</sub></p>
+</main><script>document.getElementById('theme').addEventListener('click',function(){const light=document.documentElement.classList.toggle('light');this.setAttribute('aria-pressed',String(light))});</script></body></html>
