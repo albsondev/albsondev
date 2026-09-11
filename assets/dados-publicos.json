@@ -1,0 +1,461 @@
+{
+  "username": "albsondev",
+  "consulted_at": "2026-09-11",
+  "repositories": [
+    {
+      "name": "500-AI-Agents-Projects",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "99freelas-agent",
+      "fork": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "99freelas-chrome-extension",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "aasx-browser-tv-box",
+      "fork": false,
+      "private": false,
+      "language": "Kotlin",
+      "stargazers_count": 0
+    },
+    {
+      "name": "agenda-app",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "ai-cursor-init",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "ai-real-estate-assistant",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "albson-ecommerce",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "albsondev",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "animated-portfolio",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "app-beba-agua",
+      "fork": false,
+      "private": false,
+      "language": "Java",
+      "stargazers_count": 1
+    },
+    {
+      "name": "app-beber-agua",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "app-indicacao-autoplanos",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "awesome-github-profile-readme",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "b2blue-storage-volume-control-system",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "BlockScreen",
+      "fork": false,
+      "private": false,
+      "language": "Kotlin",
+      "stargazers_count": 0
+    },
+    {
+      "name": "body-detection",
+      "fork": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 1
+    },
+    {
+      "name": "browser-use",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "ChakraFlow",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "challenge-ecommerce-catalog",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "challenge-wemovies",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "ciencia-da-computacao",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "connexa-front",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "contract-management-dashboard",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "corelab-web-challenge",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "crud-mvc-laravel",
+      "fork": false,
+      "private": false,
+      "language": "PHP",
+      "stargazers_count": 0
+    },
+    {
+      "name": "desafio-aiko-operacao-florestal",
+      "fork": false,
+      "private": false,
+      "language": "Vue",
+      "stargazers_count": 1
+    },
+    {
+      "name": "developer-portfolio",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "dictionary-mobile",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "dio-lab-open-source",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "Dopefolio",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "FixFlow-BackEnd",
+      "fork": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0
+    },
+    {
+      "name": "FixFlow-FrontEnd",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "flowbite",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "github-profile-trophy",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "indica-e-ganha",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "js-developer-pokedex",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "JS_CSS_PortfolioProject",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "lenigraf-3",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "lp-aeg-protecao",
+      "fork": false,
+      "private": false,
+      "language": "HTML",
+      "stargazers_count": 0
+    },
+    {
+      "name": "magic-portfolio",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "microfrontend-monorepo",
+      "fork": false,
+      "private": false,
+      "language": "HTML",
+      "stargazers_count": 0
+    },
+    {
+      "name": "movies-project",
+      "fork": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "nextui",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "onepage-downpage-off",
+      "fork": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "php-FacilMVC",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "php-shopping-cart-mvc",
+      "fork": false,
+      "private": false,
+      "language": null,
+      "stargazers_count": 1
+    },
+    {
+      "name": "portfolio",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "Profile-Badges",
+      "fork": false,
+      "private": false,
+      "language": "JavaScript",
+      "stargazers_count": 2
+    },
+    {
+      "name": "projeto-connexa-backup",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "ps2-covers",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "react-portfolio-template",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "teste-front-teddy-open-finance",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "teste-frontend-teddy",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "teste-frontend-teddy-open-finance",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 1
+    },
+    {
+      "name": "teste-frontend-teddy2",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "time-tracker-nana",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "todolist-effecti",
+      "fork": false,
+      "private": false,
+      "language": "Vue",
+      "stargazers_count": 0
+    },
+    {
+      "name": "ui-shadcn",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "Uncodixfy",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    },
+    {
+      "name": "unimed-caruaru-selection-test",
+      "fork": false,
+      "private": false,
+      "language": "TypeScript",
+      "stargazers_count": 0
+    },
+    {
+      "name": "views-youtube",
+      "fork": false,
+      "private": false,
+      "language": "Python",
+      "stargazers_count": 0
+    },
+    {
+      "name": "vue-crud",
+      "fork": false,
+      "private": false,
+      "language": "Vue",
+      "stargazers_count": 1
+    },
+    {
+      "name": "weather-app",
+      "fork": false,
+      "private": false,
+      "language": "Vue",
+      "stargazers_count": 0
+    },
+    {
+      "name": "zhenye-na",
+      "fork": true,
+      "private": false,
+      "language": null,
+      "stargazers_count": 0
+    }
+  ]
+}
