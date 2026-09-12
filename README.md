@@ -40,7 +40,7 @@ Hoje também exploro **IA aplicada à engenharia de software**, usando ferrament
 | **Automação e produtividade** | Scripts, ferramentas de IA e documentação para apoiar o trabalho da equipe. |
 
 <details>
-  <summary><h1>Código que você pode explorar</h1></summary>
+  <summary><h3>Código que você pode explorar</h3></summary>
   
   <a id="projetos"></a>
 
