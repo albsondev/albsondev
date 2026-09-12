@@ -19,7 +19,6 @@
 <p align="center">
   <a href="#sobre">Sobre</a> · <a href="#projetos">Projetos</a> ·
   <a href="#experiencia">Experiência</a> · <a href="#stack">Stack</a> ·
-  <a href="#github">GitHub em números</a>
 </p>
 
 ---
@@ -163,19 +162,6 @@ Projeto de controle de manutenções com repositórios separados para front-end 
 4. **Verificar e explicar.** Revisar, testar os fluxos relevantes e deixar contexto para quem continuar o trabalho.
 
 </details>
-
-<a id="github"></a>
-## Atividade pública no GitHub
-
-<p>
-  <img src="./assets/github-publico.svg" width="100%" alt="Resumo dos repositórios públicos de albsondev; os mesmos números estão disponíveis no texto abaixo." />
-</p>
-
-<!-- METRICS:START -->
-**65 repositórios públicos · 40 sem fork · 25 forks · 13 estrelas nos repositórios sem fork.**
-
-<sub>Dados públicos consultados em 11/09/2026 (UTC). Contagens de repositórios e estrelas descrevem a conta, não o nível de domínio de uma tecnologia.</sub>
-<!-- METRICS:END -->
 
 ---
 
