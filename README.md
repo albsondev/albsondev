@@ -122,18 +122,6 @@ Projeto de controle de manutenções com repositórios separados para front-end 
 
 **Outras explorações:** [agendamento full stack](https://github.com/albsondev/agenda-app) · [operação florestal com Vue](https://github.com/albsondev/desafio-aiko-operacao-florestal) · [detecção corporal com Python](https://github.com/albsondev/body-detection).
 
-<a id="experiencia"></a>
-## Experiência aplicada a produtos
-
-Além dos repositórios públicos, participei de produtos e operações com necessidades distintas:
-
-| Contexto | Minha contribuição | Entrega |
-| :--- | :--- | :--- |
-| **E-commerce white-label · PRECODE** | Desenvolvimento de interfaces e templates personalizáveis com Next.js e TypeScript. | Uma base de interface adaptável à identidade e às necessidades de diferentes lojas. |
-| **LiveDesk · projeto para TIM** | Trabalho na experiência de uso de uma plataforma de gestão de chamados com React e Redux. | Interfaces voltadas à operação de atendimento e à organização dos chamados. |
-| **Konecty · automação e organização técnica** | Scripts em Python e Shell, rotinas com Docker e documentação assistida por IA. | Automação de tarefas e estruturação de contexto técnico para o desenvolvimento. |
-| **Bike-MV · web e mobile** | Desenvolvimento com Vue e abordagem PWA, priorizando a experiência em dispositivos móveis. | Uma aplicação para a comunidade de ciclismo com foco mobile first. |
-
 <details>
 <summary><strong>Mais sobre minha trajetória</strong></summary>
 
