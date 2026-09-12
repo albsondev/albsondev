@@ -39,6 +39,7 @@ Hoje também exploro **IA aplicada à engenharia de software**, usando ferrament
 | **Arquitetura e evolução** | Micro frontends, organização modular e manutenção de sistemas existentes. |
 | **Automação e produtividade** | Scripts, ferramentas de IA e documentação para apoiar o trabalho da equipe. |
 
+<details>
 <a id="projetos"></a>
 ## Código que você pode explorar
 
@@ -120,6 +121,7 @@ Projeto de controle de manutenções com repositórios separados para front-end 
 </table>
 
 **Outras explorações:** [agendamento full stack](https://github.com/albsondev/agenda-app) · [operação florestal com Vue](https://github.com/albsondev/desafio-aiko-operacao-florestal) · [detecção corporal com Python](https://github.com/albsondev/body-detection).
+</details>
 
 <details>
 <summary><strong>Mais sobre minha trajetória</strong></summary>
