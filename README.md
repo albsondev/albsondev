@@ -3,6 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
+  <h2>Abndré Albson</h2>
 </div>
 
 <p align="center">
@@ -26,9 +27,6 @@
   <a href="#sobre">Sobre</a> · <a href="#projetos">Projetos</a> ·
   <a href="#experiencia">Experiência</a> · <a href="#stack">Stack</a> ·
 </p>
-<div align="center">
-  
-</div>
 
 ---
 
