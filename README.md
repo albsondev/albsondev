@@ -4,8 +4,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </div>
-<h1 align="center">André Albson</h1>
+
 <p align="center">
+  <hr />
   <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
   <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
 </p>
