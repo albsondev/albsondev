@@ -5,7 +5,9 @@
   </a>
 </div>
 <h1 align="center">André Albson</h1>
-
+<p align="center">
+  <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
+</p>
 <p align="center">
   <strong>Desenvolvedor Full Stack Sênior · Interfaces, integrações e IA aplicada</strong><br />
   Belo Jardim, Pernambuco · Mais de 10 anos construindo para a web
@@ -22,12 +24,9 @@
   <a href="#sobre">Sobre</a> · <a href="#projetos">Projetos</a> ·
   <a href="#experiencia">Experiência</a> · <a href="#stack">Stack</a> ·
 </p>
----
-<p align="center">
-  <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
-</p>
-
----
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
+</div>
 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
