@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <hr />
+  <hr style="width: 100% !important;">
   <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
   <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
 </p>
