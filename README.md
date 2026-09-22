@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</div>
 <p align="center">
   <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
 </p>
