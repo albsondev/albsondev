@@ -4,10 +4,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </div>
-<p align="center">
-  <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
-</p>
-
 <h1 align="center">André Albson</h1>
 
 <p align="center">
@@ -25,6 +21,10 @@
 <p align="center">
   <a href="#sobre">Sobre</a> · <a href="#projetos">Projetos</a> ·
   <a href="#experiencia">Experiência</a> · <a href="#stack">Stack</a> ·
+</p>
+---
+<p align="center">
+  <img src="./assets/hero-profissional.svg" width="100%" alt="André Albson — desenvolvimento full stack. Engenharia de software, interfaces e integrações." />
 </p>
 
 ---
