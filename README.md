@@ -30,7 +30,6 @@
 ---
 
 <div align="center">
-  <h2 style="color: #5f6368;">🏆 GitHub Trophies</h2>
   <img src="https://trophy.ryglcloud.net/?username=albsondev&theme=oldie&column=9&margin-w=15" alt="github-profile-trophy" />
 </div>
 
