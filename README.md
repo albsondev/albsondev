@@ -170,8 +170,6 @@ Projeto de controle de manutenções com repositórios separados para front-end 
 
 <div align="center">
   <h2 style="color: #5f6368;">📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=albsondev&show_icons=true&theme=tokyonight&hide_border=true&title_color=4285f4&text_color=bdc1c6&icon_color=34a853&bg_color=202124&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albsondev&layout=compact&theme=tokyonight&hide_border=true&title_color=ea4335&text_color=bdc1c6&bg_color=202124&langs_count=8" height="180px"/>
 </div>
 <div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com?user=albsondev&theme=tokyonight&hide_border=true&fire=FBBC05&ring=FBBC05&currStreakNum=EA4335&sideNums=34A853&sideLabels=bdc1c6&dates=bdc1c6&stroke=00000000&background=202124" width="100%"/>
