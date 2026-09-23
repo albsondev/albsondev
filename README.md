@@ -3,7 +3,9 @@
     <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  ## André Albson
+  <div>
+    ## André Albson
+  </div>
 </div>
 
 <p align="center">
