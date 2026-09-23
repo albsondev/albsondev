@@ -3,10 +3,10 @@
     <h2 style="border: none !important;">
       <div>André Albson</div>
       <a href="https://www.linkedin.com/in/andrealbson/" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+        <img src="https://komarev.com/ghpvc/?username=albsondev&label=Profile%20views&color=4285f4&style=flat-square" />
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+      </a>
     </h2>
-  </a>
   </div>
 </div>
 
